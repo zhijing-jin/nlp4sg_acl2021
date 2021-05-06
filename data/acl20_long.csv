@@ -1,0 +1,1000 @@
+﻿paper_name https://www.aclweb.org/anthology/events/acl-2020/#2020-acl-main,Stage,track,Social Good Topics at ACL 2020,UN 6 goals,country of the first author,affiliaton of the first author,if first author is supported by companies,author
+Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,2;3,sentiment and argument analysis,,,China,Wuhan University,N,"Hao Tang, Donghong Ji, Chenliang Li and Qiji Zhou"
+Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,2,sentiment and argument analysis,,,China,Nankai University,N,"Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang and Ziming Chi"
+"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",2,dataset; sentiment and argument analysis; question answering; summarization,,,China,Wuhan University,N,"Canwen Xu, Jiaxin Pei, Hongtao Wu, Yiyu Liu and Chenliang Li"
+Empower Entity Set Expansion via Language Model Probing,2,information extraction,,,US,UIUC,N,"Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han"
+A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer‚Äôs Type,3,language modeling,healthcare,health and wellbeing,US,UW; UMN,N,Trevor Cohen and Serguei Pakhomov
+Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,2,information extraction,,,China,Nanjing University of Science & Technology,N,"Jianfei Yu, Jing Jiang, Li Yang and Rui Xia"
+Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,2,question answering,,,Korea,KAIST,N,"Dong Bok Lee, Seanie Lee, Woo Tae Jeong, Donghwan Kim and Sung Ju Hwang"
+"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis",2,semantic parsing,,,China,Peking University,N,Yajie Ye and Weiwei Sun
+Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,2;3,question answering,,,China,South China University of Technology; Guangxi University,N,"Qingbao Huang, Jielong Wei, Yi Cai, Changmeng Zheng, Junying Chen, Ho-fung Leung and Qing Li"
+Learning to execute instructions in a Minecraft dialogue,2,robotics,,,US,UIUC,N,"Prashant Jayannavar, Anjali Narayan-Chen and Julia Hockenmaier"
+"In Neural Machine Translation, What Does Transfer Learning Transfer?",2,machine translation; interpretability,interpretability; low-resource,equality,UK,University of Edinburgh,N,"Alham Fikri Aji, Nikolay Bogoychev, Kenneth Heafield and Rico Sennrich"
+Integrating Multimodal Information in Large Pretrained Transformers,3,sentiment and argument analysis,,,US,University of Rochester,N,"Wasifur Rahman, Md Kamrul Hasan, Sangwu Lee, AmirAli Bagher Zadeh, Chengfeng Mao, Louis-Philippe Morency and Ehsan Hoque"
+Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,2,language modeling; interpretability,,,Korea,KAIST,Dingbro,Jae-young Jo and Sung-Hyon Myaeng
+Transition-based Semantic Dependency Parsing with Pointer Networks,2,syntax parsing,,,Spain,Universidade da Coruna,N,Daniel Fern√°ndez-Gonz√°lez and Carlos G√≥mez-Rodr√≠guez
+Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,2;3,data-to-text generation,,,US,UNC Chapel Hill,N,"Chao Zhao, Marilyn Walker and Snigdha Chaturvedi"
+Emergence of Syntax Needs Minimal Supervision,1,syntax parsing,,,France,Universite Paris 1 Panth ´ eon-Sorbonne,N,Rapha√´l Bailly and Kata G√°bor
+AMR Parsing with Latent Structural Information,2,semantic parsing,,,China,Wuhan University; Westlake University,N,"Qiji Zhou, Yue Zhang, Donghong Ji and Hao Tang"
+"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches",2,syntax parsing; tagging,,,US,Cornell University,N,Tianze Shi and Lillian Lee
+Efficient Constituency Parsing by Pointing,2,syntax parsing,,,Singapore,NTU,N,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty and Xiaoli Li"
+Structured Tuning for Semantic Role Labeling,2,semantic parsing,,,US,University of Utah,N,"Tao Li, Parth Anand Jawale, Martha Palmer and Vivek Srikumar"
+A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,2,information extraction,,,China,Jilin University,N,"Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian and Yi Chang"
+Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,2,segmentation,,,China,Tsinghua University,Alibaba,"Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang and Haitao Zheng"
+Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,3;4,automatic grading,,,US,University of Virginia,N,"Hannah Craighead, Andrew Caines, Paula Buttery and Helen Yannakoudakis"
+Cross-modal Coherence Modeling for Caption Generation,3,caption generation,,,US,Rutgers University,N,"Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone"
+Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,2,information extraction; knowledge graph,,,China,JD AI Research,JD,"Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He and Bowen Zhou"
+Improving Chinese Word Segmentation with Wordhood Memory Networks,2,segmentation,,,US,UW,Sinovation Ventures,"Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang and Yonggang Wang"
+More Diverse Dialogue Datasets via Diversity-Informed Data Collection,2,dialog,low-resource,equality,US,UCB,N,"Katherine Stasaski, Grace Hui Yang and Marti A. Hearst"
+Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,2;3,dialog,,,US; China,Brown University; Tsinghua University,N,"Houyu Zhang, Zhenghao Liu, Chenyan Xiong and Zhiyuan Liu"
+DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,2;3,question answering,greenNLP,energy,US,Stony Brook University,N,"Qingqing Cao, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian"
+Boosting Neural Machine Translation with Similar Translations,3,machine translation,,,France,Universite Paris-Saclay,SYSTRAN,"Jitao XU, Josep Crego and Jean Senellart"
+Bipartite Flat-Graph Network for Nested Named Entity Recognition,2,information extraction,,,China,Shanghai Jiao Tong University,N,Ying Luo and Hai Zhao
+Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,2;3,dialog,,,China,Ant Financial Services,Ant Financial Services,"Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang and Wei Chu"
+Location Attention for Extrapolation to Longer Sequences,2,model architecture; out-of-distribution,,,UK,University of Cambridge,N,"Yann Dubois, Gautier Dagan, Dieuwke Hupkes and Elia Bruni"
+Unsupervised Opinion Summarization with Noising and Denoising,3,summarization,,,UK,University of Edinburgh,N,Reinald Kim Amplayo and Mirella Lapata
+Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,2;3,sentiment and argument analysis,,,China,Beijing University of Posts and Telecommunications,EBUPT Information Technology,"Chunning Du, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao"
+MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,2,sentiment and argument analysis,,,US,Georgia Tech,N,"Jiaao Chen, Zichao Yang and Diyi Yang"
+Continual Relation Learning via Episodic Memory Activation and Reconsolidation,2,information extraction,,,China,Tsinghua University,N,"Xu Han, Yi Dai, Tianyu Gao, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou"
+Do Neural Language Models Show Preferences for Syntactic Formalisms?,2,syntax parsing; interpretability,,,Sweden,Uppsala University,N,"Artur Kulmizev, Vinit Ravishankar, Mostafa Abdou and Joakim Nivre"
+What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,3,media profiling,misinformation,,US,MIT,N,"Ramy Baly, Georgi Karadzhov, Jisun An, Haewoon Kwak, Yoan Dinkov, Ahmed Ali, James Glass and Preslav Nakov"
+Parsing into Variable-in-situ Logico-Semantic Graphs,2,semantic parsing,,,China,Peking University,N,Yufei Chen and Weiwei Sun
+"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging",2,tagging,,,United Arab Emirates,NYU Abu Dhabi,N,Nasser Zalmout and Nizar Habash
+Fine-grained Fact Verification with Kernel Graph Attention Network,3,misinformation,misinformation,,China,Tsinghua University,N,"Zhenghao Liu, Chenyan Xiong, Maosong Sun and Zhiyuan Liu"
+Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,2,interpretability,,,Peru,Pontificia Universidad Catolica del Per ´ u,N,"Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin and Sameer Singh"
+Heterogeneous Graph Neural Networks for Extractive Document Summarization,2;3,summarization,,,China,Fudan University,N,"Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu and Xuanjing Huang"
+"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",3;4,stock market,,,Japan,The University fo Tokyo,N,Xin Du and Kumiko Tanaka-Ishii
+Refer360¬∞ : A Referring Expression Recognition Dataset in 360¬∞ Images,2,robotics,,,US,CMU,N,"Volkan Cirik, Taylor Berg-Kirkpatrick and Louis-Philippe Morency"
+Estimating predictive uncertainty for rumour verification models,3;4,misinformation,misinformation,,UK,University of Warwick,N,Elena Kochkina and Maria Liakata
+schuBERT: Optimizing Elements of BERT,2,model architecture,,,US,Amazon AWS,Amazon,Ashish Khetan and Zohar Karnin
+SEEK: Segmented Embedding of Knowledge Graphs,2,knowledge graph,,,China,Sun Yat-sen University,N,"Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu"
+Target Inference in Argument Conclusion Generation,3,language modeling,,,Germany,Paderborn University,N,"Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachsmuth"
+Benchmarking Multimodal Regex Synthesis with Complex Structures,3,semantic parsing,,,US,The University of Texas at Austin,N,"Xi Ye, Qiaochu Chen, Isil Dillig and Greg Durrett"
+Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,2,machine translation,,,Australia,The University of Melbourne,N,"Nitika Mathur, Timothy Baldwin and Trevor Cohn"
+Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,3;4,misinformation,misinformation,,China,University of Chinese Academy of Sciences,N,"Lei Zhong, Juan Cao, Qiang Sheng, Junbo Guo and Ziang Wang"
+Distinguish Confusing Law Articles for Legal Judgment Prediction,3;4,legal judgement prediction,legal,,China,Xi’an Jiaotong University,N,"Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and Junzhou Zhao"
+On the Robustness of Language Encoders against Grammatical Errors,2,language modeling,,,China,Peking University,N,"Fan Yin, Quanyu Long, Tao Meng and Kai-Wei Chang"
+From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,2,information extraction; low-resource,low-resource,,Germany,Technical University of Darmstadt,N,"Jan-Christoph Klie, Richard Eckart de Castilho and Iryna Gurevych"
+CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,2;3,topic modeling,,,Brazil,Universidade Federal de Minas Gerais,N,"Felipe Viegas, Washington Cunha, Christian Gomes, Ant√¥nio Pereira, Leonardo Rocha and Marcos Goncalves"
+Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,3;4,caption generation; low-resource,equality,equality,US,Google Research,Google,Ashish V. Thapliyal and Radu Soricut
+Harnessing the linguistic signal to predict scalar inferences,2,psycholinguistics,,,US,Stanford University,N,"Sebastian Schuster, Yuxing Chen and Judith Degen"
+Masked Language Model Scoring,2,model architecture,,,US,Amazon AWS,Amazon,"Julian Salazar, Davis Liang, Toan Q. Nguyen and Katrin Kirchhoff"
+Emerging Cross-lingual Structure in Pretrained Language Models,2,language modeling; interpretability,,,US&US,Facebook&Johns Hopkins University,Facebook,"Alexis Conneau, Shijie Wu, Haoran Li, Luke Zettlemoyer and Veselin Stoyanov"
+Tchebycheff Procedure for Multi-task Text Classification,3,sentiment and argument analysis,,,Australia,University of New South Wales,N,"Yuren Mao, Shuang Yun, Weiwei Liu and Bo Du"
+Fluent Response Generation for Conversational Question Answering,3,dialog,,,Canada,University of Waterloo,N,"Ashutosh Baheti, Alan Ritter and Kevin Small"
+A Joint Model for Document Segmentation and Segment Labeling,2,segmentation,,,US,University of Maryland,Adobe,"Joe Barrow, Rajiv Jain, Vlad Morariu, Varun Manjunatha, Douglas Oard and Philip Resnik"
+Hyperbolic Capsule Networks for Multi-Label Classification,3,sentiment and argument analysis,,,China,Beijing Jiaotong University,N,"Boli Chen, Xin Huang, Lin Xiao and Liping Jing"
+Predicting Declension Class from Form and Meaning,2,noun classification (ontology),,,US,Facebook,Facebook,"Adina Williams, Tiago Pimentel, Arya D. McCarthy, Hagen Blix, Eleanor Chodroff and Ryan Cotterell"
+Analysing Lexical Semantic Change with Contextualised Word Representations,2,word meaning,,,Netherlands,University of Amsterdam,N,"Mario Giulianelli, Marco Del Tredici and Raquel Fern√°ndez"
+Discourse-Aware Neural Extractive Text Summarization,3,summarization,,,US,The University of Texas at Austin,Microsoft,"Jiacheng Xu, Zhe Gan, Yu Cheng and Jingjing Liu"
+MultiQT: Multimodal learning for real-time question tracking in speech,2;3,question answering,,,Denmark,Corti,Corti,"Jakob D. Havtorn, Jan Latko, Joakim Edin, Lars Maal√∏e, Lasse Borgholt, Lorenzo Belgrano, Nicolai Jacobsen, Regitze Sdun and ≈Ωeljko Agiƒá"
+Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,2,word order,,,Japan,Tohoku University,Langsmith,"Tatsuki Kuribayashi, Takumi Ito, Jun Suzuki and Kentaro Inui"
+Negative Training for Neural Dialogue Response Generation,3,dialog,,,US,MIT,N,Tianxing He and James Glass
+A Batch Normalized Inference Network Keeps the KL Vanishing Away,2,model architecture,,,US,University of Florida,Tencent,"Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu"
+Towards Transparent and Explainable Attention Models,2,model architecture; interpretability,interpretability,,India,Indian Institute of Technology Madras,N,"Akash Kumar Mohankumar, Preksha Nema, Sharan Narasimhan, Mitesh M. Khapra, Balaji Vasan Srinivasan and Balaraman Ravindran"
+Learning Source Phrase Representations for Neural Machine Translation,2,machine translation,,,Germany,Saarland University,N,"Hongfei Xu, Josef van Genabith, Deyi Xiong, Qiuhui Liu and Jingyi Zhang"
+Neural Generation of Dialogue Response Timings,3;4,dialog,,,Ireland,Trinity College Dublin,N,Matthew Roddy and Naomi Harte
+Learning to Update Natural Language Comments Based on Code Changes,3;4,code,,,US,The University of Texas at Austin,N,"Sheena Panthaplackel, Pengyu Nie, Milos Gligoric, Junyi Jessy Li and Raymond Mooney"
+Word-level Textual Adversarial Attacking as Combinatorial Optimization,2,robustness,robustness,,China; US,Tsinghua University&Tsinghua University&Columbia University,N,"Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu and Maosong Sun"
+From English to Code-Switching: Transfer Learning with Strong Morphological Clues,2;3,language modeling,low-resource,equality,US,University of Houston,N,Gustavo Aguilar and Thamar Solorio
+Representation Learning for Information Extraction from Form-like Documents,2;3,information extraction,,,US,UC San Diego,Google,"Bodhisattwa Prasad Majumder, Navneet Potti, Sandeep Tata, James Bradley Wendt, Qi Zhao and Marc Najork"
+A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,3,machine translation,,,China,Xiamen University,Tencent,"Yongjing Yin, Fandong Meng, Jinsong Su, Chulun Zhou, Zhengyuan Yang, Jie Zhou and Jiebo Luo"
+Differentiable Window for Dynamic Local Attention,2,model architecture,,,Singapore,NTU,N,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty and Xiaoli Li"
+TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,4,information extraction,,,US,Columbia University,Amazon,"Giannis Karamanolakis, Jun Ma and Xin Luna Dong"
+Effective Estimation of Deep Generative Language Models,2,model architecture,,,UK,University of Edinburgh,N,Tom Pelsmaeker and Wilker Aziz
+"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",3;4,dialog,,,China,Harbin Institute of Technology,Tencent,"Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu and Ting Liu"
+End-to-End Bias Mitigation by Modelling Biases in Corpora,2,bias,equality,equality,Switzerland,EPFL,Idiap Research Institute,"Rabeeh Karimi Mahabadi, Yonatan Belinkov and James Henderson"
+Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,2,dialog,,,Germany,Technische Universitat Darmstadt,N,"Mohsen Mesgar, Sebastian B√ºcker and Iryna Gurevych"
+Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,3,machine translation; bias,equality; low-resource,equality,UK,University of Cambridge,N,Danielle Saunders and Bill Byrne
+Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,4,mental healthcare,mental healthcare,health and wellbeing,US,UC Santa Cruz,N,"Alex Rinaldi, Jean Fox Tree and Snigdha Chaturvedi"
+Towards Conversational Recommendation over Multi-Type Dialogs,3;4,dialog,,,China,Harbin Institute of Technology,Baidu,"Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu"
+"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction",3,dialog,,,China,Nanjing University of Science & Technology,N,"Zixiang Ding, Rui Xia and Jianfei Yu"
+"R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge",3,sarcasm generation,,,US,University of Southern California,N,"Tuhin Chakrabarty, Debanjan Ghosh, Smaranda Muresan and Nanyun Peng"
+Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,2;3,semantic parsing,,,China,Soochow University,N,"Bo Zhang, Yue Zhang, Rui Wang, Zhenghua Li and Min Zhang"
+Contextualized Weak Supervision for Text Classification,2,sentiment and argument analysis,,,US,UC San Diego,N,Dheeraj Mekala and Jingbo Shang
+SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,2,sentiment and argument analysis,,,China,Peking University,N,"Da Yin, Tao Meng and Kai-Wei Chang"
+‚ÄúThe Boating Store Had Its Best Sail Ever‚Äù: Pronunciation-attentive Contextualized Pun Recognition,2,pun classification,,,US,UCLA,N,"Yichao Zhou, Jyun-Yu Jiang, Jieyu Zhao, Kai-Wei Chang and Wei Wang"
+The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,2;4,information extraction,science literature,,Germany,Bosch Center for Artificial Intelligence,BOSCH,"Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Marusczyk and Lukas Lange"
+Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,2,tagging,,,Germany,Universitat Hamburg,N,Fynn Schr√∂der and Chris Biemann
+Injecting Numerical Reasoning Skills into Language Models,2,language modeling,,,Israel,Tel Aviv University,N,"Mor Geva, Ankit Gupta and Jonathan Berant"
+Simplify the Usage of Lexicon in Chinese NER,2,tagging,,,China,Fudan University,N,"Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei and Xuanjing Huang"
+Analyzing analytical methods: The case of phonology in neural models of spoken language,2,phonology,,,Netherlands,Tilburg University,N,"Grzegorz Chrupa≈Ça, Bertrand Higy and Afra Alishahi"
+Universal Decompositional Semantic Parsing,2,semantic parsing,,,US,Johns Hopkins University,N,"Elias Stengel-Eskin, Aaron Steven White, Sheng Zhang and Benjamin Van Durme"
+Toward Gender-Inclusive Coreference Resolution,2,information extraction,,,US,University of Maryland,N,Yang Trista Cao and Hal Daum√© III
+Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,3,question answering,,,China,University of Electronic Science and Technology of China,Microsoft,"Fei Yuan, Linjun Shou, Xuanyu Bai, Ming Gong, Yaobo Liang, Nan Duan, Yan Fu and Daxin Jiang"
+Speakers enhance contextually confusable words,2,dialog,,,US,UC San Diego,N,"Eric Meinhardt, Eric Bakovic and Leon Bergen"
+Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,2,data-to-text generation,,,China,Sun Yat-sen University,Microsoft,"Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou"
+Improving Neural Machine Translation with Soft Template Prediction,3,machine translation,,,China,Beihang University,Microsoft,"Jian Yang, Shuming Ma, Dongdong Zhang, Zhoujun Li and Ming Zhou"
+Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,3,question answering,,,US,Microsoft,Microsoft,"Hao Cheng, Ming-Wei Chang, Kenton Lee and Kristina Toutanova"
+Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,3,question answering,,,China,Harbin Institute of Technology,Microsoft,"Bo Zheng, Haoyang Wen, Yaobo Liang, Nan Duan, Wanxiang Che, Daxin Jiang, Ming Zhou and Ting Liu"
+Semantic Parsing for English as a Second Language,2,semantic parsing; low-resource,low-resource,equality,China,Peking University,N,"Yuanyuan Zhao, Weiwei Sun, Junjie Cao and Xiaojun Wan"
+Empowering Active Learning to Jointly Optimize System and User Demands,4,interactive system; education,education,education,Germany,Technische Universitat Darmstadt,N,"Ji-Ung Lee, Christian M. Meyer and Iryna Gurevych"
+Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,3,dialog,,,US,UNC Chapel Hill,Microsoft,"Shashank Srivastava, Oleksandr Polozov, Nebojsa Jojic and Christopher Meek"
+Generalizing Natural Language Analysis through Span-relation Representations,2,information extraction; semantic parsing,,,US,CMU,N,"Zhengbao Jiang, Wei Xu, Jun Araki and Graham Neubig"
+Generative Semantic Hashing Enhanced via Boltzmann Machines,4,information retrieval,,,China,Sun Yat-sen University,N,"Lin Zheng, Qinliang Su, Dinghan Shen and Changyou Chen"
+Low-Resource Generation of Multi-hop Reasoning Questions,2,question answering,,,China,Sun Yat-sen University,N,"Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan and Jian Yin"
+STARC: Structured Annotations for Reading Comprehension,2,question answering,,,US,MIT,N,"Yevgeni Berzak, Jonathan Malmaud and Roger Levy"
+Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,2,semantic parsing,,,China,Shanghai Jiao Tong University,N,"Ruisheng Cao, Su Zhu, Chenyu Yang, Chen Liu, Rao Ma, Yanbin Zhao, Lu Chen and Kai Yu"
+Multimodal Neural Graph Memory Networks for Visual Question Answering,3,question answering,,,Canada,Simon Fraser University,N,Mahmoud Khademi
+Semi-supervised Contextual Historical Text Normalization,2,text normalization,,,Switzerland,University of Zurich,N,Peter Makarov and Simon Clematide
+Efficient Pairwise Annotation of Argument Quality,2,sentiment and argument analysis,,,Germany,Leipzig University,N,"Lukas Gienapp, Benno Stein, Matthias Hagen and Martin Potthast"
+Learning to Segment Actions from Observation and Narration,2,robotics,,,US,UC Berkeley,Google,"Daniel Fried, Jean-Baptiste Alayrac, Phil Blunsom, Chris Dyer, Stephen Clark and Aida Nematzadeh"
+Cross-media Structured Common Space for Multimedia Event Extraction,2,information extraction,,,US; US,UIUC; Columbia University,N,"Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji and Shih-Fu Chang"
+Language (Re)modelling: Towards Embodied Language Understanding,1,psycholinguistics,,,Israel,The Hebrew University of Jerusalem,N,"Ronen Tamari, Chen Shani, Tom Hope, Miriam R L Petruck, Omri Abend and Dafna Shahaf"
+DoQA - Accessing Domain-Specific FAQs via Conversational QA,3,dialog,,,Spain,University of the Basque Country,N,"Jon Ander Campos, Arantxa Otegi, Aitor Soroa, Jan Deriu, Mark Cieliebak and Eneko Agirre"
+Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,3,dialog,,,China; China,Ant Financial Services; Harbin Institute of Technology,Ant Financial Services,"Yangming Li, Kaisheng Yao, Libo Qin, Wanxiang Che, Xiaolong Li and Ting Liu"
+Understanding the Language of Political Agreement and Disagreement in Legislative Texts,4,legal and political text,,,US,Purdue University,N,"Maryam Davoodi, Eric Waltenburg and Dan Goldwasser"
+Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,3;4,speech; machine translation,,,US,Apple,Apple,Matthias Sperber and Matthias Paulik
+BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,2,word meaning,,,China,East China Normal University,Alibaba,Chengyu Wang and Xiaofeng He
+Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,3,data-to-text generation,,,Germany,Saarland University,N,"Xiaoyu Shen, Ernie Chang, Hui Su, Cheng Niu and Dietrich Klakow"
+INFOTABS: Inference on Tables as Semi-structured Data,3,information retrieval,,,US,University of Utah,N,"Vivek Gupta, Maitrey Mehta, Pegah Nokhiz and Vivek Srikumar"
+Speaker Sensitive Response Evaluation Model,3,dialog,,,Korea,KAIST,N,JinYeong Bak and Alice Oh
+Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,2;3,dialog,,,Australia,The University of Melbourne,N,"Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang"
+Learning and Evaluating Emotion Lexicons for 91 Languages,2,word meaning,,,Germany,Friedrich-Schiller-Universitat Jena,N,"Sven Buechel, Susanna R√ºcker and Udo Hahn"
+A Span-based Linearization for Constituent Trees,2,syntax parsing,,,China,East China Normal University,N,"Yang Wei, Yuanbin Wu and Man Lan"
+Generalized Entropy Regularization or: There‚Äôs Nothing Special about Label Smoothing,2,model architecture,,,Switzerland,ETH Zurich,N,"Clara Meister, Elizabeth Salesky and Ryan Cotterell"
+Heterogeneous Graph Transformer for Graph-to-Sequence Learning,2,data-to-text generation,,,China,Peking University,N,"Shaowei Yao, Tianming Wang and Xiaojun Wan"
+A Mixture of h ‚àí 1 Heads is Better than h Heads,2,model architecture,,,US,UW,N,"Hao Peng, Roy Schwartz, Dianqi Li and Noah A. Smith"
+Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,2,word meaning,,,Italy,Sapienza University of Rome,N,Michele Bevilacqua and Roberto Navigli
+AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,3,machine translation; robustness,,,US,Google Research,Google,"Yong Cheng, Lu Jiang, Wolfgang Macherey and Jacob Eisenstein"
+TaPas: Weakly Supervised Table Parsing via Pre-training,2,semantic parsing,,,Israel,Tel Aviv University,Google,"Jonathan Herzig, Pawel Krzysztof Nowak, Thomas M√ºller, Francesco Piccinno and Julian Eisenschlos"
+Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,2,knowledge graph,,,Germany,University of Mannheim,N,"Samuel Broscheit, Kiril Gashteovski, Yanjie Wang and Rainer Gemulla"
+Compositionality and Generalization In Emergent Languages,1,emergent languages,,,France,Facebook,Facebook,"Rahma Chaabouni, Eugene Kharitonov, Diane Bouchacourt, Emmanuel Dupoux and Marco Baroni"
+Handling Rare Entities for Neural Sequence Labeling,2,semantic parsing,,,China,Ant Financial Services,Ant Financial Services,"Yangming Li, Han Li, Kaisheng Yao and Xiaolong Li"
+A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,2,word meaning,,,Toronto,York University,N,"Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis"
+(Re)construing Meaning in NLP,1,psycholinguistics,,,US,UC San Diego,N,"Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider"
+Multi-Cell Compositional LSTM for NER Domain Adaptation,2,tagging,,,China,Fudan University,N,Chen Jia and Yue Zhang
+KLEJ: Comprehensive Benchmark for Polish Language Understanding,2,low-resource,low-resource,,Poland,ML Research at Allegro.pl,Allegro,"Piotr Rybak, Robert Mroczkowski, Janusz Tracz and Ireneusz Gawlik"
+A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,3,text normalization; healthcare,healthcare,health and wellbeing,US,University of Arizona,N,"Dongfang Xu, Zeyu Zhang and Steven Bethard"
+Learning to Identify Follow-Up Questions in Conversational Question Answering,2,dialog,,,Singapore,NUS,N,"Souvik Kundu, Qian Lin and Hwee Tou Ng"
+SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,3,dialog,,,China,East China Normal University,N,"Jiaying Hu, Yan Yang, Chencai Chen, Liang He and Zhou Yu"
+Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,3,style transfer,,,China; China,Xiamen University; Baidu,Baidu,"Chulun Zhou, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo and Hua Wu"
+Examining Citations of Natural Language Processing Literature,1,NLP field analysis,,,Canada,National Research Concil Canada,N,Saif M. Mohammad
+Inflecting when there‚Äôs no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals,2,morphology,,,UK,University of Edinburgh,N,"Kate McCurdy, Sharon Goldwater and Adam Lopez"
+Bridging Anaphora Resolution as Question Answering,2,coreference,,,Ireland,IBM research Europe,IBM,Yufang Hou
+Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,2,machine translation,,,Australia,Monash University,N,"Xuanli He, Gholamreza Haffari and Mohammad Norouzi"
+The Right Tool for the Job: Matching Model and Instance Complexities,1,model development principles,,,US,UW,N,"Roy Schwartz, Gabriel Stanovsky, Swabha Swayamdipta, Jesse Dodge and Noah A. Smith"
+Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,3,dialog; model architecture,,,China,Peking University,N,"Yiping Song, Zequn Liu, Wei Bi, Rui Yan and Ming Zhang"
+Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,2,word meaning,,,US,Cornell University,N,"Rishi Bommasani, Kelly Davis and Claire Cardie"
+Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,2,language modeling; interpretability,,,US,Cornell University,N,Forrest Davis and Marten van Schijndel
+Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,4,mental healthcare,mental healthcare,health and wellbeing,US,Cornell University,N,Justine Zhang and Cristian Danescu-Niculescu-Mizil
+Unsupervised Domain Clusters in Pretrained Language Models,2,language modeling,,,Israel,Bar Ilan University,N,Roee Aharoni and Yoav Goldberg
+Unsupervised Opinion Summarization as Copycat-Review Generation,3,summarization,,,UK,University of Edinburgh,N,"Arthur Bra≈æinskas, Mirella Lapata and Ivan Titov"
+Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,3,machine translation,,,UK,University of Edinburgh,N,"Biao Zhang, Philip Williams, Ivan Titov and Rico Sennrich"
+Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,3,intent classification,,,Hong Kong,The Hong Kong Polytechnic University,N,"Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam"
+Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,2;3,information extraction,,,Singapore,Singapore University of Technology and Design,SUTD,"Guoshun Nan, Zhijiang Guo, Ivan Sekulic and Wei Lu"
+Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,3,summarization,,,China,Peking University,N,"Hanqi Jin, Tianming Wang and Xiaojun Wan"
+Neural Mixed Counting Models for Dispersed Topic Discovery,2,topic modeling,,,China,Sun Yat-sen University,N,"Jiemin Wu, Yanghui Rao, Zusheng Zhang, Haoran Xie, Qing Li, Fu Lee Wang and Ziye Chen"
+MLQA: Evaluating Cross-lingual Extractive Question Answering,3,question answering,,,US,Facebook,Facebook,"Patrick Lewis, Barlas Oguz, Ruty Rinott, Sebastian Riedel and Holger Schwenk"
+WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,2,question answering,,,Hong Kong,HKUST,N,"Hongming Zhang, Xinran Zhao and Yangqiu Song"
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,2,syntax parsing,,,Israel,Bar Ilan University,N,"Reut Tsarfaty, Dan Bareket, Stav Klein and Amit Seker"
+Balancing Training for Multilingual Neural Machine Translation,3,machine translation,,,US,CMU,N,"Xinyi Wang, Yulia Tsvetkov and Graham Neubig"
+CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,2,language grounding,,,UK,Heriot-Watt University,N,"Alessandro Suglia, Ioannis Konstas, Andrea Vanzo, Emanuele Bastianelli, Desmond Elliott, Stella Frank and Oliver Lemon"
+Probing Linguistic Features of Sentence-Level Representations in Relation Extraction,2,information extraction,,,Germany,German Research Center for Artificial Intelligence ,N,"Christoph Alt, Aleksandra Gabryszak and Leonhard Hennig"
+Interactive Classification by Asking Informative Questions,2,dialog,,,US,ASAPP,ASAPP,"Lili Yu, Howard Chen, Sida I. Wang, Tao Lei and Yoav Artzi"
+Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,2,syntax-based generation,,,US,IPsoft,IPsoft,Kaustubh Dhole and Christopher D. Manning
+DRTS Parsing with Structure-Aware Encoding and Decoding,2,semantic parsing,,,China,Zhejiang University,N,"Qiankun Fu, Yue Zhang, Jiangming Liu and Meishan Zhang"
+You Impress Me: Dialogue Generation via Mutual Persona Perception,3,dialog,,,China,Beihang University,Microsoft,"Qian Liu, Yihong Chen, Bei Chen, Jian-Guang Lou, Zixuan Chen, Bin Zhou and Dongmei Zhang"
+Predicting the Topical Stance and Political Leaning of Media using Tweets,4,misinformation,misinformation,,Bulgaria,SiteGround Hosting EOOD,SiteGround,"Peter Stefanov, Kareem Darwish, Atanas Atanasov and Preslav Nakov"
+Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,3,dialog,,,China,Harbin Institute of Technology,N,"Libo Qin, Xiao Xu, Wanxiang Che, Yue Zhang and Ting Liu"
+MIE: A Medical Information Extractor towards Medical Dialogues,4,information extraction; healthcare,healthcare,health and wellbeing,China,Chinese Academy of Sciences,N,"Yuanzhe Zhang, Zhongtao Jiang, Tao Zhang, Shiwan Liu, Jiarun Cao, Kang Liu, Shengping Liu and Jun Zhao"
+Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,2,dialog,,,US,Stanford University,N,"Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam"
+A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,2,question answering,,,China; China,Tsinghua University; Shandong University,N,"Yilin Niu, Fangkai Jiao, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang"
+"It Takes Two to Lie: One to Lie, and One to Listen",4,misinformation,misinformation,,US,University of Maryland,N,"Denis Peskov, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil and Jordan Boyd-Graber"
+Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,2,bias,bias,,US,Stony Brook University,N,"Deven Santosh Shah, H. Andrew Schwartz and Dirk Hovy"
+A Unified MRC Framework for Named Entity Recognition,2,information extraction,,,China,Shannon AI,Shannon AI,"Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li"
+Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,3,sentiment and argument analysis,,,US,University of Arkansas,N,"Joseph Sirrianni, Xiaoqing Liu and Douglas Adams"
+Fast and Accurate Non-Projective Dependency Tree Linearization,2;3,syntax-based generation,,,Germany,University of Stuttgart,N,"Xiang Yu, Simon Tannert, Ngoc Thang Vu and Jonas Kuhn"
+SenseBERT: Driving Some Sense into BERT,2,language modeling; interpretability,,,Israel,Tel Aviv University,N,"Yoav Levine, Barak Lenz, Or Dagan, Ori Ram, Dan Padnos, Or Sharir, Shai Shalev-Shwartz, Amnon Shashua and Yoav Shoham"
+Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,2,sentiment and argument analysis; interpretability,,,US,University of Virginia ,N,"Hanjie Chen, Guangtao Zheng and Yangfeng Ji"
+Knowledge Graph Embedding Compression,2,knowledge graph; greenNLP,greenNLP,,US,Toyota Technological Institute at Chicago,Toyota,Mrinmaya Sachan
+"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",2,language modeling,,,US,Facebook,Facebook,"Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov and Luke Zettlemoyer"
+Modelling Suspense in Short Stories as Uncertainty Reduction over Neural Representation,3,suspense,,,UK,University of Edinburgh,N,David Wilmot and Frank Keller
+Interactive Machine Comprehension with Information Seeking Agents,3,question answering,,,Canada; Canada,Microsoft; Polytechnique Montreal,Microsoft,"Xingdi Yuan, Jie Fu, Marc-Alexandre C√¥t√©, Yi Tay, Chris Pal and Adam Trischler"
+Efficient Dialogue State Tracking by Selectively Overwriting Memory,4,dialog; greenNLP,greenNLP,,Korea,NAVER,NAVER,"Sungdong Kim, Sohee Yang, Gyuwan Kim and Sang-Woo Lee"
+Large Scale Multi-Actor Generative Dialog Modeling,3;4,dialog,,,US; US,UC Irvine; NVIDIA,NVIDIA,"Alex Boyd, Raul Puri, Mohammad Shoeybi, Mostofa Patwary and Bryan Catanzaro"
+Multi-Domain Dialogue Acts and Response Co-Generation,3;4,dialog,,,China,Sun Yat-sen University,Alibaba,"Kai Wang, Junfeng Tian, Rui Wang, Xiaojun Quan and Jianxing Yu"
+Reasoning Over Semantic-Level Graph for Fact Checking,4,misinformation,,,China,Sun Yat-sen University,Microsoft,"Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin"
+The TechQA Dataset,2,question answering,,,US,IBM research AI,IBM,"Vittorio Castelli, Rishav Chakravarti, Saswati Dana, Anthony Ferritto, Radu Florian, Martin Franz, Dinesh Garg, Dinesh Khandelwal, Scott McCarley, Michael McCawley, Mohamed Nasr, Lin Pan, Cezar Pendus, John Pitrelli, Saurabh Pujar, Salim Roukos, Andrzej Sakrajda, Avi Sil, Rosario Uceda-Sosa, Todd Ward and Rong Zhang"
+"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization",3,summarization,,,China,University of Chinese Academy of Sciences,N,"Junnan Zhu, Yu Zhou, Jiajun Zhang and Chengqing Zong"
+In Layman‚Äôs Terms: Semi-Open Relation Extraction from Scientific Texts,4,information extraction,science literature,,UK,Heriot-Watt University,N,"Ruben Kruiper, Julian Vincent, Jessica Chen-Burger, Marc Desmulliez and Ioannis Konstas"
+Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,3,question answering,,,Singapore,NTU,N,"Ming Yan, Hao Zhang, Di Jin and Joey Tianyi Zhou"
+KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,2,dialog,,,China,Tsinghua University,N,"Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huang and Xiaoyan Zhu"
+A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,3,dialog,,,China,Chinese Academy of Sciences,Tencent,"Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou"
+Spelling Error Correction with Soft-Masked BERT,4,grammatical error correction,,,China,ByteDance,ByteDance,"Shaohua Zhang, Haoran Huang, Jicong Liu and Hang Li"
+BPE-Dropout: Simple and Effective Subword Regularization,2,model architecture,,,Russia; Russia,Moscow Institute of Physics and Technology; National Research University Higher School of Economics,Yandex,"Ivan Provilkov, Dmitrii Emelianenko and Elena Voita"
+Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,2,code,,,US; US,IBM; Microsoft,IBM; Microsoft,"Tian Jin, Zhun Liu, Shengjia Yan, Alexandre Eichenberger and Louis-Philippe Morency"
+NeuInfer: Knowledge Inference on N-ary Facts,2,knowledge graph; inference,,,China,Chinese Academy of Sciences,N,"Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang and Xueqi Cheng"
+Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,3,low-resource; information extraction,,,China,Tsinghua University,N,"Qianhui Wu, Zijia Lin, B√∂rje Karlsson, Jian-Guang Lou and Biqing Huang"
+Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,2,bias; word meaning,,,US,UCLA,Microsoft,"Jieyu Zhao, Subhabrata Mukherjee, Saghar Hosseini, Kai-Wei Chang and Ahmed Hassan Awadallah"
+Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,3;4,dialog,,,China,LAIX,LAIX,"Yefei Zha, Ruobing Li and Hui Lin"
+A Corpus for Large-Scale Phonetic Typology,2,phonology,,,US,Johns Hopkins University,N,"Elizabeth Salesky, Eleanor Chodroff, Tiago Pimentel, Matthew Wiesner, Ryan Cotterell, Alan W Black and Jason Eisner"
+CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,2,word meaning,,,Spain,Sapienza University of Rome,N,"Tommaso Pasini, Federico Scozzafava and Bianca Scarlini"
+A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,2,semantic parsing,,,China,Soochow University,N,"Longyin Zhang, Yuqing Xing, Fang Kong, Peifeng Li and Guodong Zhou"
+Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,2,model architecture,,,UK,University of Cambridge,N,Guy Emerson
+Text-Based Ideal Points,3,legal and political text; social media,,,US,Columbia University,N,"Keyon Vafa, Suresh Naidu and David Blei"
+ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,2,information extraction,,,US,UW,N,"Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi"
+SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,2,model architecture,,,US,Georgia Tech,Microsoft,"Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao and Tuo Zhao"
+CamemBERT: a Tasty French Language Model,2,model architecture; low-resource,,,France; France; France,Facebook; Sorbonne Université; Sorbonne Université,Facebook,"Louis Martin, Benjamin Muller, Pedro Javier Ortiz Su√°rez, Yoann Dupont, Laurent Romary, √âric de la Clergerie, Djam√© Seddah and Beno√Æt Sagot"
+Harvesting and Refining Question-Answer Pairs for Unsupervised QA,3,question answering,,,China,Beihang University,Microsoft,"Zhongli Li, Wenhui Wang, Li Dong, Furu Wei and Ke Xu"
+Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,3,semantic parsing; news,,,US,Texas A&M University,N,"Prafulla Kumar Choubey, Aaron Lee, Ruihong Huang and Lu Wang"
+Span-based Localizing Network for Natural Language Video Localization,3,language grounding,,,Singapore,NTU,N,"Hao Zhang, Aixin Sun, Wei Jing and Joey Tianyi Zhou"
+DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,4,misinformation; interpretability,,,China,Xi’an Jiaotong University,N,"Lianwei Wu, Yuan Rao, Yongqiang Zhao, Hao Liang and Ambreen Nazir"
+Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,1,linguistics,,,Israel,Hebrew University of Jerusalem,N,"Dmitry Nikolaev, Ofir Arviv, Taelin Karidi, Neta Kenneth, Veronika Mitnik, Lilja Maria Saeboe and Omri Abend"
+Curriculum Pre-training for End-to-End Speech Translation,4,speech; machine translation,,,China,Nankai University,Microsoft,"Chengyi Wang, Yu Wu, Shujie Liu, Ming Zhou and Zhenglu Yang"
+The State and Fate of Linguistic Diversity and Inclusion in the NLP World,1,linguistics,,,India,Microsoft,Microsoft,"Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali and Monojit Choudhury"
+Predicting the Focus of Negation: Model and Error Analysis,2,semantic parsing,,,US,University of North Texas,N,"Md Mosharaf Hossain, Kathleen Hamilton, Alexis Palmer and Eduardo Blanco"
+Automatic Poetry Generation from Prosaic Text,4,poetry generation,,,France,IRIT,N,Tim Van de Cruys
+Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,2,syntax parsing; low-resource,,,France,INRIA,N,"Djam√© Seddah, Farah Essaidi, Amal Fethi, Matthieu Futeral, Benjamin Muller, Pedro Javier Ortiz Su√°rez, Beno√Æt Sagot and Abhishek Srivastava"
+Towards Understanding Gender Bias in Relation Extraction,2,bias; information extraction,,,US; US,UC Santa Barbara; UCLA,N,"Andrew Gaut, Tony Sun, Shirlyn Tang, Yuxin Huang, Jing Qian, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang and William Yang Wang"
+Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,4,dialog; story generaton,,,US,Microsoft,Microsoft,Revanth Rameshkumar and Peter Bailey
+A Study of Non-autoregressive Model for Sequence Generation,2,model architecture,,,China,Zhejiang University,N,"Yi Ren, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao and Tie-Yan Liu"
+Weight Poisoning Attacks on Pretrained Models,2,robustness,,,US,CMU,N,"Keita Kurita, Paul Michel and Graham Neubig"
+SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,4,grammatical error correction,,,China,Ant Financial Services,Ant Financial Services,"Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu and Yuan Qi"
+Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,2,model architecture,,,China; China; US,Alibaba; Wuhan University; University of Michigan,Alibaba,"Yu Duan, Canwen Xu, Jiaxin Pei, Jialong Han and Chenliang Li"
+Generating Counter Narratives against Online Hate Speech: Data and Strategies,4,toxic language,,,Italy,Fondazione Bruno Kessler,N,"Serra Sinem Tekiroƒülu, Yi-Ling Chung and Marco Guerini"
+Toxicity Detection: Does Context Really Matter?,3,toxic language,,,Greece,Athens University of Economic and Business,N,"John Pavlopoulos, Jeffrey Sorensen, Lucas Dixon, Nithum Thain and Ion Androutsopoulos"
+"‚ÄúWho said it, and Why?‚Äù Provenance for Natural Language Claims",4,misinformation,,,US,University of Pennsylvania,N,"Yi Zhang, Zachary Ives and Dan Roth"
+A Generative Model for Joint Natural Language Understanding and Generation,2,model architecture; information extraction; data-to-text generation,,,UK,University of Cambridge,Apple,"Bo-Hsiang Tseng, Jianpeng Cheng, Yimai Fang and David Vandyke"
+Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,2,semantic parsing; robustness,,,US,Cornell University,N,"Alane Suhr, Ming-Wei Chang, Peter Shaw and Kenton Lee"
+MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,3,caption generation,,,US,UNC Chapel Hill,Tencent,"Jie Lei, Liwei Wang, Yelong Shen, Dong Yu, Tamara Berg and Mohit Bansal"
+Learning Efficient Dialogue Policy from Demonstrations through Shaping,3,dialog,,,Hong Kong; US,The Chinese University of Hong Kong; Microsoft,Microsoft,"Huimin Wang, Baolin Peng and Kam-Fai Wong"
+MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,4,machine translation,,,Germany,German Research Center for Artificial Intelligence ,N,"Nico Herbig, Tim D√ºwel, Santanu Pal, Kalliopi Maria Meladaki, Mahsa Monshizadeh, Antonio Kr√ºger and Josef van Genabith"
+Modeling Morphological Typology for Unsupervised Learning of Language Morphology,2,morphology,,,US; China,University of Pennsylvania; Shanghai International Studies University,N,"Hongzhi Xu, Jordan Kodner, Mitchell Marcus and Charles Yang"
+A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,2,low-resource; word meaning,,,France; France,INRIA; Sorbonne Université,N,"Pedro Javier Ortiz Su√°rez, Laurent Romary and Beno√Æt Sagot"
+Beyond Possession Existence: Duration and Co-Possession,4,semantic parsing,,,US,University of North Texas,Thomson Reuters,"Dhivya Chinnappa, Srikala Murugan and Eduardo Blanco"
+Grounding Conversations with Improvised Dialogues,3,dialog; language grounding,,,US,University of Southern California,N,Hyundong Cho and Jonathan May
+Improving Segmentation for Technical Support Problems,3,segmentation,,,India,ABV-IIITM,IBM,Kushal Chauhan and Abhirut Gupta
+Don‚Äôt Stop Pretraining: Adapt Language Models to Domains and Tasks,2,model architecture; greenNLP,,,US,Allen Institute for Artificial Intelligence,N,"Suchin Gururangan, Ana Marasoviƒá, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey and Noah A. Smith"
+KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis,3; 4,sentiment and argument analysis,,,Singapore,Singapore University of Technology and Design,N,"Deepanway Ghosal, Devamanyu Hazarika, Abhinaba Roy, Navonil Majumder, Rada Mihalcea and Soujanya Poria"
+Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,2,knowledge graph,,,US,University of Connecticut,N,"Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya and Alfio Gliozzo"
+Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,3;4,question answering; knowledge graph,,,India,Indian Institute of Science,N,"Apoorv Saxena, Aditay Tripathi and Partha Talukdar"
+Leveraging Graph to Improve Abstractive Multi-Document Summarization,3;4,summarization,,,China,Baidu,Baidu,"Wei Li, Xinyan Xiao, Jiachen Liu, Hua Wu, Haifeng Wang and Junping Du"
+Explicit Semantic Decomposition for Definition Generation,3,data-to-text generation,,,China,Nanjing University,N,"Jiahuan Li, Yu Bao, Shujian Huang, Xinyu Dai and Jiajun Chen"
+Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,2,model architecture,,,Korea,Seoul National University,N,"Joongbo Shin, Yoonhyung Lee, Seunghyun Yoon and Kyomin Jung"
+Translationese as a Language in ‚ÄúMultilingual‚Äù NMT,3;4,machine translation,,,US,University of Rochester,Google,"Parker Riley, Isaac Caswell, Markus Freitag and David Grangier"
+Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,2,model architecture,,,US,Google,Google,"Dan Iter, Kelvin Guu, Larry Lansing and Dan Jurafsky"
+Zero-shot Text Classification via Reinforced Self-training,3,sentiment and argument analysis,,,China,Zhejiang University,N,"Zhiquan Ye, Yuxia Geng, Jiaoyan Chen, Jingmin Chen, Xiaoxiao Xu, Suhang Zheng, Feng Wang, Jun Zhang and Huajun Chen"
+Hierarchical Entity Typing via Multi-level Learning to Rank,2,information extraction; knowledge graph,,,US,Johns Hopkins University,N,"Tongfei Chen, Yunmo Chen and Benjamin Van Durme"
+GLUECoS: An Evaluation Benchmark for Code-Switched NLP,2,machine translation,,,India,Microsoft,Microsoft,"Simran Khanuja, Sandipan Dandapat, Anirudh Srinivasan, Sunayana Sitaram and Monojit Choudhury"
+Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,2,syntax parsing; semantic parsing,,,China,ShanghaiTech University,N,"Zixia Jia, Youmi Ma, Jiong Cai and Kewei Tu"
+Multiscale Collaborative Deep Models for Neural Machine Translation,3,machine translation,,,China,Chinese Academy of Sciences,Alibaba,"Xiangpeng Wei, Heng Yu, Yue Hu, Yue Zhang, Rongxiang Weng and Weihua Luo"
+NAT: Noise-Aware Training for Robust Neural Sequence Labeling,2,semantic parsing,,,Germany,Sankt Augustin University,N,"Marcin Namysl, Sven Behnke and Joachim K√∂hler"
+Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,2,model architecture,,,China,Chinese Academy of Sciences,N,"Yekun Chai, Shuo Jin and Xinwen Hou"
+Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,2,semantic parsing,,,China,Wuhan University,N,"Hao Fei, Meishan Zhang and Donghong Ji"
+Improving Transformer Models by Reordering their Sublayers,2,model architecture,,,US,UW,N,"Ofir Press, Noah A. Smith and Omer Levy"
+ESPRIT: Explaining Solutions to Physical Reasoning Tasks,3,interpretability; inference,,,US; US,Salesforce; Yale University,Salesforce,"Nazneen Fatema Rajani, Rui Zhang, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher and Dragomir Radev"
+ERASER: A Benchmark to Evaluate Rationalized NLP Models,2; 3,interpretability,interpretability,,US; US; US,Northeastern University; Northeastern University; Salesforce,Salesforce,"Jay DeYoung, Sarthak Jain, Nazneen Fatema Rajani, Eric Lehman, Caiming Xiong, Richard Socher and Byron C. Wallace"
+BLEURT: Learning Robust Metrics for Text Generation,2,metric,,,US,Google,Google,"Thibault Sellam, Dipanjan Das and Ankur Parikh"
+Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,2,bias,bias,equality,Canada,National Research Concil Canada,N,Saif M. Mohammad
+BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,3,language grounding,,,Canada; US,Simon Fraser University; University of Southern California,N,"Wang Zhu, Hexiang Hu, Jiacheng Chen, Zhiwei Deng, Vihan Jain, Eugene Ie and Fei Sha"
+Review-based Question Generation with Adaptive Instance Transfer and Augmentation,2,question answering,,,Hong Kong,The Chinese University of Hong Kong,Alibaba,"Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam and Luo Si"
+On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,2,model architecture,,,China,Tsinghua University,N,"Chen Wu, Prince Zizhuang Wang and William Yang Wang"
+One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,3,topic modeling,,,Canada; Canada; US,Microsoft; Microsoft; University of Pittsburgh,Microsoft,"Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He and Adam Trischler"
+Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,2,information extraction,,,China,ShanghaiTech University,N,"Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Fei Huang and Kewei Tu"
+Phonetic and Visual Priors for Decipherment of Informal Romanization,3,word transformation,,,US,CMU,N,"Maria Ryskina, Matthew R. Gormley and Taylor Berg-Kirkpatrick"
+FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,3,summarization; misinformation,misinformation,,US,Cornell University,Amazon,"Esin Durmus, He He and Mona Diab"
+Sources of Transfer in Multilingual Named Entity Recognition,2,information extraction,,,US,Johns Hopkins University,N,"David Mueller, Nicholas Andrews and Mark Dredze"
+Automated Evaluation of Writing ‚Äì 50 Years and Counting,2,metric,,,US,Educational Testing Service,N,Beata Beigman Klebanov and Nitin Madnani
+Learning to Deceive with Attention-Based Explanations,2,interpretability; model architecture,,,US,CMU,N,"Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton"
+Improving Disfluency Detection by Self-Training a Self-Attentive Model,3,speech,,,Australia,Macquarie University,N,Paria Jamshid Lou and Mark Johnson
+Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,3,stance detection,,,China,Harbin Institute of Technology,N,"Bowen Zhang, Min Yang, Xutao Li, Yunming Ye, Xiaofei Xu and Kuai Dai"
+Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,3,dialog,,,Hong Kong,HKUST,Tencent,"Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu and Nevin L. Zhang"
+"To Test Machine Comprehension, Start by Defining Comprehension",2,question answering,,,US,Elemental Cognition,Elemental Cognition,"Jesse Dunietz, Greg Burnham, Akash Bharadwaj, Owen Rambow, Jennifer Chu-Carroll and Dave Ferrucci"
+XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,2,model architecture; greenNLP,,,US,Microsoft,Microsoft,Subhabrata Mukherjee and Ahmed Hassan Awadallah
+iSarcasm: A Dataset of Intended Sarcasm,3,sarcasm generation,,,UK,University of Edinburgh,N,Silviu Oprea and Walid Magdy
+Exclusive Hierarchical Decoding for Deep Keyphrase Generation,3,topic modeling,,,Hong Kong,The Chinese University of Hong Kong,N,"Wang Chen, Hou Pong Chan, Piji Li and Irwin King"
+It‚Äôs Morphin‚Äô Time! Combating Linguistic Discrimination with Inflectional Perturbations,2,bias; low-resource,bias,equality,Singapore,NUS,Salesforce,"Samson Tan, Shafiq Joty, Min-Yen Kan and Richard Socher"
+Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,2,syntax parsing; robustness,robustness,,China,Fudan University,N,"Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng and Xuanjing Huang"
+Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,2,semantic parsing,,,China,Harbin Institute of Technology,N,"Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu and Ting Liu"
+Bootstrapping Techniques for Polysynthetic Morphological Analysis,2,morphology,,,Australia,Charles Darwin University,N,William Lane and Steven Bird
+Rationalizing Medical Relation Prediction from Corpus-level Statistics,4,healthcare,healthcare,health and wellbeing,US,The Ohio State University,N,"Zhen Wang, Jennifer Lee, Simon Lin and Huan Sun"
+"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",4,sarcasm generation; sentiment and argument analysis; emotion detection,,,India,Indian Institute of Technology Patna,N,"Dushyant Singh Chauhan, Dhanush S R, Asif Ekbal and Pushpak Bhattacharyya"
+"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",4,biology,healthcare,health and wellbeing,India,Microsoft,Microsoft,Pratik Dutta and Sriparna Saha
+A Call for More Rigor in Unsupervised Cross-lingual Learning,2,robustness,robustness,,Spain,University of the Basque Country,DeepMind,"Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre"
+Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,3,summarization,,,Germany,Heidelberg University,N,"Raphael Schumann, Lili Mou, Yao Lu, Olga Vechtomova and Katja Markert"
+Multi-Hypothesis Machine Translation Evaluation,2,metric,,,UK,University of Sheffield,N,"Marina Fomicheva, Lucia Specia and Francisco Guzm√°n"
+PuzzLing Machines: A Challenge on Learning From Small Data,2,few-shot,,,Germany,Technical University of Darmstadt,N,"G√∂zde G√ºl ≈ûahin, Yova Kementchedjhieva, Phillip Rust and Iryna Gurevych"
+SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,2,language modeling,,,US,CMU,N,"Xiang Kong, Varun Gangal and Eduard Hovy"
+The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,2,robustness; question answering,robustness,,Denmark,University of Copenhagen,N,"Mostafa Abdou, Vinit Ravishankar, Maria Barrett, Yonatan Belinkov, Desmond Elliott and Anders S√∏gaard"
+"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",2,word meaning,,,France; France,Bar-Ilan University; INRIA,N,"Hila Gonen, Ganesh Jawahar, Djam√© Seddah and Yoav Goldberg"
+What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,2,syntax parsing,,,US,UC Irvine,N,"Richard Futrell, William Dyer and Greg Scontras"
+Information-Theoretic Probing for Linguistic Structure,2,syntax parsing,,,UK,University of Cambridge,N,"Tiago Pimentel, Josef Valvoda, Rowan Hall Maudslay, Ran Zmigrod, Adina Williams and Ryan Cotterell"
+Multi-Sentence Argument Linking,3,sentiment and argument analysis,,,US,Johns Hopkins University,N,"Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins and Benjamin Van Durme"
+TVQA+: Spatio-Temporal Grounding for Video Question Answering,3,question answering,,,US,UNC Chapel Hill,N,"Jie Lei, Licheng Yu, Tamara Berg and Mohit Bansal"
+SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,2,information extraction,,,China,Alibaba,Alibaba,"He Zhao, Longtao Huang, Rong Zhang, Quan Lu and Hui Xue"
+Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,3,summarization,,,US,Northeastern University,N,"Luyang Huang, Lingfei Wu and Lu Wang"
+Biomedical Entity Representations with Synonym Marginalization,2,information extraction; knowledge graph,healthcare,health and wellbeing,Korea,Korea University,N,"Mujeen Sung, Hwisang Jeon, Jinhyuk Lee and Jaewoo Kang"
+Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,2,text representation,,,US,Duke University,NEC Labs America,"Pengyu Cheng, Martin Renqiang Min, Dinghan Shen, Christopher Malon, Yizhe Zhang, Yitong Li and Lawrence Carin"
+GoEmotions: A Dataset of Fine-Grained Emotions,3,emotion detection,,,US,Stanford University,Google,"Dorottya Demszky, Dana Movshovitz-Attias, Jeongwoo Ko, Alan Cowen, Gaurav Nemade and Sujith Ravi"
+MIND: A Large-scale Dataset for News Recommendation,4,recommendation,,,China,Microsoft,Microsoft,"Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu and Ming Zhou"
+Structural Information Preserving for Graph-to-Text Generation,3,data-to-text generation,,,US,Tencent,Tencent,"Linfeng Song, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu"
+Joint Modelling of Emotion and Abusive Language Detection,4,emotion detection; toxic language,mental healthcare,health and wellbeing,Netherlands,University of Amsterdam,N,"Santhosh Rajamanickam, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova"
+Efficient Second-Order TreeCRF for Neural Dependency Parsing,2,syntax parsing,,,China,Soochow University,N,"Yu Zhang, Zhenghua Li and Min Zhang"
+Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,2,citation generation,,,China,Peking University,N,"Xinyu Xing, Xiaosheng Fan and Xiaojun Wan"
+Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,2,information extraction; data-to-text generation,,,Taiwan,National Taiwan University,N,"Shang-Yu Su, Chao-Wei Huang and Yun-Nung Chen"
+Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,2,question answering,,,China,Peking University,N,Zi Chai and Xiaojun Wan
+Modeling Code-Switch Languages Using Bilingual Parallel Corpus,2,machine translation,,,Singapore,NUS,N,Grandee Lee and Haizhou Li
+SPECTER: Document-level Representation Learning using Citation-informed Transformers,2,text representation,,,US; US,Allen Institute for Artificial Intelligence; UW,N,"Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey and Daniel Weld"
+A Joint Neural Model for Information Extraction with Global Features,2,information extraction,,,US,UIUC,N,"Ying Lin, Heng Ji, Fei Huang and Lingfei Wu"
+Uncertainty-Aware Curriculum Learning for Neural Machine Translation,3;4 ,machine translation,,,Macau,University of Macau,N,"Yikai Zhou, Baosong Yang, Derek F. Wong, Yu Wan and Lidia S. Chao"
+Neural Reranking for Dependency Parsing: An Evaluation,2,syntax parsing,,,Germany,Leibniz ScienceCampus,N,Bich-Ngoc Do and Ines Rehbein
+Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,4,summarization; style transfer,,,US,MIT,N,"Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii and Peter Szolovits"
+Learning Architectures from an Extended Search Space for Language Modeling,2,language modeling; model architecture,,,China,"Northeastern University, Shengyang",N,"Yinqiao Li, Chi Hu, Yuhao Zhang, Nuo Xu, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu and Changliang Li"
+Analyzing Political Parody in Social Media,4,legal and political text; social media,,,Germany,University of Sheffield,N,"Antonios Maronikolakis, Danae S√°nchez Villegas, Daniel Preotiuc-Pietro and Nikolaos Aletras"
+Automatic Detection of Generated Text is Easiest when Humans are Fooled,2,interpretability,,,US; US,University of Pennsylvania; Google,Google,"Daphne Ippolito, Daniel Duckworth, Chris Callison-Burch and Douglas Eck"
+Improving Adversarial Text Generation by Modeling the Distant Future,2,robustness,,,US,Duke University,N,"Ruiyi Zhang, Changyou Chen, Zhe Gan, Wenlin Wang, Dinghan Shen, Guoyin Wang, Zheng Wen and Lawrence Carin"
+HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,2,model architecture,,,US,MIT,N,"Hanrui Wang, Zhanghao Wu, Zhijian Liu, Han Cai, Ligeng Zhu, Chuang Gan and Song Han"
+Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,3,emotion detection,,,China,Chinese Academy of Sciences,N,"Penghui Wei, Jiahao Zhao and Wenji Mao"
+Neighborhood Matching Network for Entity Alignment,2,information extraction,,,China,Peking University,N,"Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang and Dongyan Zhao"
+Frugal Paradigm Completion,2,morphology,,,US,Ohio State University,Google,"Alexander Erdmann, Tom Kenter, Markus Becker and Christian Schallhart"
+Improving Truthfulness of Headline Generation,4,summarization; misinformation,misinformation,,Japan,Tokyo Institute of Technology,N,"Kazuki Matsumaru, Sho Takase and Naoaki Okazaki"
+Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,3,machine translation; language grounding,,,US,CMU,N,"Po-Yao Huang, Junjie Hu, Xiaojun Chang and Alexander Hauptmann"
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings,2,knowledge graph,,,US,Stanford University,Google,"Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher R√©"
+Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,4,code,,,Germany,Karlsruhe Institute of Technology,N,"Sebastian Weigelt, Vanessa Steurer, Tobias Hey and Walter F. Tichy"
+Towards Robustifying NLI Models Against Lexical Dataset Biases,2,bias; robustness,bias,,US,UNC Chapel Hill,N,Xiang Zhou and Mohit Bansal
+Fact-based Text Editing,3,misinformation,,,Japan,Nara Institute of Science and Technology,ByteDance,"Hayate Iso, Chao Qiao and Hang Li"
+Towards Emotion-aided Multi-modal Dialogue Act Classification,3,dialog,,,India,Indian Institute of Technology Patna,N,"Tulika Saha, Aditya Patra, Sriparna Saha and Pushpak Bhattacharyya"
+Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,3,healthcare; question answering,healthcare,health and wellbeing,US,The Ohio State University,N,"Xiang Yue, Bernal Jimenez Gutierrez and Huan Sun"
+Understanding Attention for Text Classification,2,interpretability; sentiment and argument analysis,,,Singapore,Singapore University of Technology and Design,N,Xiaobing Sun and Wei Lu
+From Arguments to Key Points: Towards Automatic Argument Summarization,3,summarization; sentiment and argument analysis,,,US,IBM,IBM,"Roy Bar-Haim, Lilach Eden, Roni Friedman, Yoav Kantor, Dan Lahav and Noam Slonim"
+On Faithfulness and Factuality in Abstractive Summarization,4,summarization; misinformation,,,US,Google,Google,"Joshua Maynez, Shashi Narayan, Bernd Bohnet and Ryan McDonald"
+Pyramid: A Layered Model for Nested Named Entity Recognition,2,information extraction,,,China,Zhejiang University,N,"Jue Wang, Lidan Shou, Ke Chen and Gang Chen"
+Facet-Aware Evaluation for Extractive Summarization,2,metric; summarization,,,US,UIUC,N,"Yuning Mao, Liyuan Liu, Qi Zhu, Xiang Ren and Jiawei Han"
+Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,2,metric; dialog,,,US,Stanford University,N,"Weixin Liang, James Zou and Zhou Yu"
+ScriptWriter: Narrative-Guided Script Generation,3,generation,,,Canada,Universite de Montreal,N,"Yutao Zhu, Ruihua Song, Zhicheng Dou, Jian-Yun Nie and Jin Zhou"
+Out of the Echo Chamber: Detecting Countering Debate Speeches,4,social media,,,US,IBM,IBM,"Matan Orbach, Yonatan Bilu, Assaf Toledo, Dan Lahav, Michal Jacovi, Ranit Aharonov and Noam Slonim"
+Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,3,question answering; dialog,,,Hong Kong,The Chinese University of Hong Kong,Salesforce,"Yifan Gao, Chien-Sheng Wu, Shafiq Joty, Caiming Xiong, Richard Socher, Irwin King, Michael Lyu and Steven C.H. Hoi"
+Diversifying Dialogue Generation with Non-Conversational Text,3,dialog,,,China; Germany,Tencent; Saarland University,Tencent,"Hui Su, Xiaoyu Shen, Sanqiang Zhao, Zhou Xiao, Pengwei Hu, Randy Zhong, Cheng Niu and Jie Zhou"
+Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,3,emotion detection,,,China,"Harbin Institute of Technology, Shenzhen",N,"Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang and Ruifeng Xu"
+Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,3,machine translation,,,China,Tencent,Tencent,"Qiu Ran, Yankai Lin, Peng Li and Jie Zhou"
+That is a Known Lie: Detecting Previously Fact-Checked Claims,4,misinformation,misinformation,,Qatar,HBKU,N,"Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino and Preslav Nakov"
+Mapping Natural Language Instructions to Mobile UI Action Sequences,4,interactive system,,,US,Google,Google,"Yang Li, Jiacong He, Xin Zhou, Yuan Zhang and Jason Baldridge"
+ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,3,simplification,,,UK; France,University of Sheffield; INRIA,Facebook,"Fernando Alva-Manchego, Louis Martin, Antoine Bordes, Carolina Scarton, Beno√Æt Sagot and Lucia Specia"
+The Unstoppable Rise of Computational Linguistics in Deep Learning,1,linguistics,,,Switzerland,Idiap Research,N,James Henderson
+Posterior Control of Blackbox Generation,2,generation; model architecture,,,US,Johns Hopkins University,N,Xiang Lisa Li and Alexander Rush
+An Effective Transition-based Model for Discontinuous NER,2,information extraction,,,Australia,CSIRO,N,"Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris"
+Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,2,dialog; metric,,,US; US; China; US,UCLA; UCLA; ShanghaiTech University; UCLA,N,"Bo Pang, Erik Nijkamp, Wenjuan Han, Linqi Zhou, Yixian Liu and Kewei Tu"
+Improving Image Captioning with Better Use of Caption,4,caption generation,,,Canada,Queen’s University,N,"Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu"
+Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,4,dialog,,,China,Tsinghua University,N,"Ryuichi Takanobu, Runze Liang and Minlie Huang"
+Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,4,sentiment and argument analysis,,,China,Soochow University,N,"Xiao Chen, Changlong Sun, Jingjing Wang, Shoushan Li, Luo Si, Min Zhang and Guodong Zhou"
+Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,4,summarization; misinformation,misinformation,,US,NYU,N,"Alex Wang, Kyunghyun Cho and Mike Lewis"
+Machine Reading of Historical Events,4,information extraction,,,Israel; UK,The Hebrew University of Jerusalem; University of Cambridge,N,"Or Honovich, Lucas Torroba Hennigen, Omri Abend and Shay B. Cohen"
+Cross-Linguistic Syntactic Evaluation of Word Prediction Models,2,language modeling,,,US,Johns Hopkins University,N,"Aaron Mueller, Garrett Nicolai, Panayiota Petrou-Zeniou, Natalia Talmina and Tal Linzen"
+A Formal Hierarchy of RNN Architectures,2,model architecture,,,US,Allen Institute for Artificial Intelligence,N,"William Merrill, Gail Weiss, Yoav Goldberg, Roy Schwartz, Noah A. Smith and Eran Yahav"
+Obtaining Faithful Interpretations from Compositional Neural Networks,2,interpretability,interpretability,,US; Israel; US,Allen Institute for Artificial Intelligence; Tel Aviv University; University of Pennsylvania,N,"Sanjay Subramanian, Ben Bogin, Nitish Gupta, Tomer Wolfson, Sameer Singh, Jonathan Berant and Matt Gardner"
+Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,2,information extraction,,,US,Bloomberg,Bloomberg,"Jing Wang, Mayank Kulkarni and Daniel Preotiuc-Pietro"
+History for Visual Dialog: Do we really need it?,2,dialog,,,UK,Heriot-Watt University,Adobe,"Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas and Verena Rieser"
+MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,3,model architecture; greenNLP,,,US,CMU,Google,"Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang and Denny Zhou"
+The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,3,dialog; language grounding,,,US,Facebook,Facebook,"Kurt Shuster, Da JU, Stephen Roller, Emily Dinan, Y-Lan Boureau and Jason Weston"
+Probing Linguistic Systematicity,1;2,linguistics,,,Canada,Quebec Artificial Intelligence Institute,N,"Emily Goodwin, Koustuv Sinha and Timothy J. O‚ÄôDonnell"
+Active Imitation Learning with Noisy Guidance,2,model architecture; information extraction,,,US,University of Maryland,N,"Kiant√© Brantley, Hal Daum√© III and Amr Sharaf"
+Exploiting the Syntax-Model Consistency for Neural Relation Extraction,2,information extraction,,,US,University of Oregon,N,"Amir Pouran Ben Veyseh, Franck Dernoncourt, Dejing Dou and Thien Huu Nguyen"
+Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,2,interpretability; metric,interpretability,,US,UNC Chapel Hill,N,Peter Hase and Mohit Bansal
+Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,2,segmentation; tagging,,,US,UW,Sinovation Ventures,"Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang"
+Hard-Coded Gaussian Attention for Neural Machine Translation,3,machine translation,,,US,University of Massachusetts Amherst,N,"Weiqiu You, Simeng Sun and Mohit Iyyer"
+CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,3,sentiment and argument analysis,,,China,Tsinghua University,N,"Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou and Kaicheng Yang"
+RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,3,semantic parsing,,,UK; US,University of Edinburgh; UCB,Microsoft,"Bailin Wang, Richard Shin, Xiaodong Liu, Oleksandr Polozov and Matthew Richardson"
+Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,3;4,summarization; machine translation,,,China,Peking University,N,"Yue Cao, Hui Liu and Xiaojun Wan"
+Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,3,dialog,,,China,Chinese Academy of Sciences,JD,"Hengyi Cai, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao and Dawei Yin"
+Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,2,interpretability,interpretability,,Hong Kong,HKU,N,"Zhiyong Wu, Yun Chen, Ben Kao and Qun Liu"
+Unsupervised Paraphrasing by Simulated Annealing,3,paraphrase,,,China,Tsinghua University,N,"Xianggen Liu, Lili Mou, Fandong Meng, Hao Zhou, Jie Zhou and Sen Song"
+Extractive Summarization as Text Matching,3,summarization,,,China,Fudan University,N,"Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu and Xuanjing Huang"
+Code and Named Entity Recognition in StackOverflow,4,information extraction; code,,,US,The Ohio State University,N,"Jeniya Tabassum, Mounica Maddela, Wei Xu and Alan Ritter"
+Named Entity Recognition without Labelled Data: A Weak Supervision Approach,2,information extraction,,,Norway,Norwegian Computing Center,N,"Pierre Lison, Jeremy Barnes, Aliaksandr Hubin and Samia Touileb"
+Unsupervised Morphological Paradigm Completion,2,morphology,,,US,CMU,N,"Huiming Jin, Liwei Cai, Yihui Peng, Chen Xia, Arya McCarthy and Katharina Kann"
+CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,4,semantic parsing; interactive system,,,US,Facebook; HuggingFace,Facebook,"Kavya Srinet, Yacine Jernite, Jonathan Gray and Arthur Szlam"
+He said ‚Äúwho‚Äôs gonna take care of your children when you are at ACL?‚Äù: Reported Sexist Acts are Not Sexist,2,bias,bias,,France,Universite de Toulouse,N,"Patricia Chiril, V√©ronique Moriceau, Farah Benamara, Alda Mari, Gloria Origgi and Marl√®ne Coulomb-Gully"
+Neural Topic Modeling with Bidirectional Adversarial Training,2,robustness; topic modeling,,,China,Southeast University,N,"Rui Wang, Xuemeng Hu, Deyu Zhou, Yulan He, Yuxuan Xiong, Chenchen Ye and Haiyang Xu"
+Dice Loss for Data-imbalanced NLP Tasks,2,bias,bias,,China,Shannon AI,Shannon AI,"Xiaoya Li, Xiaofei Sun, Yuxian Meng, Junjun Liang, Fei Wu and Jiwei Li"
+Interactive Construction of User-Centric Dictionary for Text Analytics,4,interactive system,,,Japan,IBM,IBM,"Ryosuke Kohita, Issei Yoshida, Hiroshi Kanayama and Tetsuya Nasukawa"
+Norm-Based Curriculum Learning for Neural Machine Translation,3,machine translation,,,Macau; China,University of Macau; NewTranx Information Technology,NewTranx Information Technology,"Xuebo Liu, Houtim Lai, Derek F. Wong and Lidia S. Chao"
+A Systematic Assessment of Syntactic Generalization in Neural Language Models,2,language modeling; interpretability,,,US,MIT,N,"Jennifer Hu, Jon Gauthier, Peng Qian, Ethan Wilcox and Roger Levy"
+Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,4,toxic language; bias,mental healthcare; bias,,China; China,Harbin Institute of Technology; Tencent,Tencent,"Guanhua Zhang, Bing Bai, Junqi Zhang, Kun Bai, Conghui Zhu and Tiejun Zhao"
+A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,2,question answering,,,Spain,University of the Basque Country,N,"Jan Deriu, Katsiaryna Mlynchyk, Philippe Schl√§pfer, Alvaro Rodrigo, Dirk von Gr√ºnigen, Nicolas Kaiser, Kurt Stockinger, Eneko Agirre and Mark Cieliebak"
+Feature Projection for Improved Text Classification,3,sentiment and argument analysis,,,China,Peking University,N,"Qi Qin, Wenpeng Hu and Bing Liu"
+Revisiting the Context Window for Cross-lingual Word Embeddings,2,word meaning,,,Japan,The University of Tokyo,N,Ryokan Ri and Yoshimasa Tsuruoka
+Relational Graph Attention Network for Aspect-based Sentiment Analysis,3,sentiment and argument analysis,,,China,Sun Yat-sen University,N,"Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan and Rui Wang"
+Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,2,language modeling; interpretability,,,US,NYU,N,"Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann and Samuel R. Bowman"
+Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,2,social science,,,US,University of Massachusetts Amherst,N,"Katherine Keith, David Jensen and Brendan O‚ÄôConnor"
+Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,2,emergent languages,,,UK,DeepMind,DeepMind,"Angeliki Lazaridou, Anna Potapenko and Olivier Tieleman"
+Curriculum Learning for Natural Language Understanding,2,information extraction,,,China,University of Science and Technology of China,N,"Benfeng Xu, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie and Yongdong Zhang"
+BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,2,word meaning,,,Germany,Sulzer GmbH,Sulzer GmbH,Timo Schick and Hinrich Sch√ºtze
+TAG : Type Auxiliary Guiding for Code Comment Generation,3,code,,,China,Guangdong University of Technology,N,"Ruichu Cai, Zhihao Liang, Boyan Xu, zijian li, Yuexing Hao and Yao Chen"
+Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,3,question answering,,,US,UIUC,Microsoft,"Hongyu Gong, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu"
+How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,4,legal and political text,,,China,Tsinghua University,N,"Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu and Maosong Sun"
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,3,sentiment and argument analysis,,,Australia,University of Wollongong,N,Minh Hieu Phan and Philip O. Ogunbona
+Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,3,inference,,,France,Samsung,Samsung,"Alexandre Tamborrino, Nicola Pellican√≤, Baptiste Pannier, Pascal Voitot and Louise Naudin"
+Image-Chat: Engaging Grounded Conversations,4,dialog; language grounding,,,US,Facebook,Facebook,"Kurt Shuster, Samuel Humeau, Antoine Bordes and Jason Weston"
+Learning Dialog Policies from Weak Demonstrations,3,dialog,,,US,Huawei,Huawei,"Gabriel Gordon-Hall, Philip John Gorinski and Shay B. Cohen"
+SimulSpeech: End-to-End Simultaneous Speech to Text Translation,3,speech,,,China,Zhejiang University,N,"Yi Ren, Jinglin Liu, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu"
+Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,2,information extraction,,,US,Cornell University,N,Xinya Du and Claire Cardie
+Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,3,dialog,,,China,Peking University,N,"Sixing Wu, Ying Li, Dawei Zhang, Yang Zhou and Zhonghai Wu"
+Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,2,question answering,,,US,UNC Chapel Hill,N,"Hyounghun Kim, Zineng Tang and Mohit Bansal"
+Hierarchy-Aware Global Model for Hierarchical Text Classification,2,sentiment and argument analysis,,,China,Shanghai Jiao Tong University,Alibaba,"Jie Zhou, Chunping Ma, Dingkun Long, Guangwei Xu, Ning Ding, Haoyu Zhang, Pengjun Xie and Gongshen Liu"
+SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,2,sentiment and argument analysis,,,China,University of Science and Technology of China,Baidu,"Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang and Feng Wu"
+Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,2,language modeling; syntax parsing,,,US,CMU,N,"Kaiji Lu, Piotr Mardziel, Klas Leino, Matt Fredrikson and Anupam Datta"
+GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,4,misinformation; interpretability,misinformation; interpretability,,Taiwan,National Cheng Kung University,N,Yi-Ju Lu and Cheng-Te Li
+An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,2,sentiment and argument analysis; metric,,,Spain,UNED,N,"Enrique Amigo, Julio Gonzalo, Stefano Mizzaro and Jorge Carrillo-de-Albornoz"
+Discrete Latent Variable Representations for Low-Resource Text Classification,2,sentiment and argument analysis; text representation,,,US,Rutgers University,Toyota,"Shuning Jin, Sam Wiseman, Karl Stratos and Karen Livescu"
+LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,4,misinformation,misinformation,,China,Sun Yat-sen University,Microsoft,"Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin"
+Temporal Common Sense Acquisition with Minimal Supervision,2,knowledge graph,,,US,University of Pennsylvania,N,"Ben Zhou, Qiang Ning, Daniel Khashabi and Dan Roth"
+Dialogue-Based Relation Extraction,3,information extraction; dialog,,,US; US,Tencent; Cornell University,Tencent,"Dian Yu, Kai Sun, Claire Cardie and Dong Yu"
+SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,2,information extraction,,,US,Amazon,Amazon,"Luoxin Chen, Weitong Ruan, Xinyue Liu and Jianhua Lu"
+Predicting Performance for Natural Language Processing Tasks,2,metric,,,US,CMU,N,"Mengzhou Xia, Antonios Anastasopoulos, Ruochen Xu, Yiming Yang and Graham Neubig"
+The Paradigm Discovery Problem,2,morphology,,,US,Ohio State University,N,"Alexander Erdmann, Micha Elsner, Shijie Wu, Ryan Cotterell and Nizar Habash"
+When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,2,word meaning,,,US,University at Buffalo,N,Kenneth Joseph and Jonathan Morgan
+Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,3,machine translation,,,Spain,University of the Basque Country,N,"Xabier Soto, Dimitar Shterionov, Alberto Poncelas and Andy Way"
+ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,2,knowledge graph,,,China,Wuhan University,N,"Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang"
+INSET: Sentence Infilling with INter-SEntential Transformer,3,language modeling,,,US,Microsoft,Microsoft,"Yichen Huang, Yizhe Zhang, Oussama Elachqar and Yu Cheng"
+Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,3,machine translation,,,US,Georgia Tech,N,"Haoming Jiang, Chen Liang, Chong Wang and Tuo Zhao"
+An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models,2,language modeling; interpretability,interpretability,,Japan,AIST,AIST,Hiroshi Noji and Hiroya Takamura
+How does BERT‚Äôs attention change when you fine-tune? An analysis methodology and a case study in negation scope,2,language modeling; interpretability,interpretability,,US,University of Arizona,N,Yiyun Zhao and Steven Bethard
+TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,2,metric; information extraction,,,Germany,German Research Center for Artificial Intelligence ,N,"Christoph Alt, Aleksandra Gabryszak and Leonhard Hennig"
+Examining the State-of-the-Art in News Timeline Summarization,2,summarization,,,Ireland,University of Dublin,Aylien,Demian Gholipour Ghalandari and Georgiana Ifrim
+Adversarial NLI: A New Benchmark for Natural Language Understanding,2,robustness; NLI,robustness,,US,UNC Chapel Hill,N,"Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela"
+End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,3,dialog,,,Korea,KAIST,KAIST,"Donghoon Ham, Jeong-Gwan Lee, Youngsoo Jang and Kee-Eung Kim"
+End-to-End Neural Word Alignment Outperforms GIZA++,3,machine translation,,,US,Lilt,Lilt,"Thomas Zenkel, Joern Wuebker and John DeNero"
+TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,2,information extraction,,,China,Tianjin University,N,"Ruifang He, Jian Wang, Fengyu Guo and Yugui Han"
+Fine-grained Interest Matching for Neural News Recommendation,3;4,recommendation,,,China,Microsoft,Microsoft,"Heyuan Wang, Fangzhao Wu, Zheng Liu and Xing Xie"
+To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,2,information retrieval,,,Germany,University of Stuttgart,N,Markus G√§rtner and Kerstin Jung
+Semantic Graphs for Generating Deep Questions,2,question answering,,,Singapore,NUS,N,"Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua and Min-Yen Kan"
+Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,2,sentiment and argument analysis,,,China,Sun Yat-sen University,N,"Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling and Yan Song"
+On the Inference Calibration of Neural Machine Translation,2,machine translation,,,China,Tsinghua University,Tencent,"Shuo Wang, Zhaopeng Tu, Shuming Shi and Yang Liu"
+Phone Features Improve Speech Translation,3,speech; machine translation,,,US,Johns Hopkins University,N,Elizabeth Salesky and Alan W Black
+Evaluating Explanation Methods for Neural Machine Translation,3,machine translation,,,China,University of Electronic Science and Technology of China,N,"Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi"
+Rigid Formats Controlled Text Generation,2,style transfer,,,China,Tencent,Tencent,"Piji Li, Haisong Zhang, Xiaojiang Liu and Shuming Shi"
+Graph-to-Tree Learning for Solving Math Word Problems,2,math,,,China,University of Electronic Science and Technology of China,N,"Jipeng Zhang, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao and Ee-Peng Lim"
+Parallel Corpus Filtering via Pre-trained Language Models,2,machine translation,,,China,DiDi,DiDi,"Boliang Zhang, Ajay Nagesh and Kevin Knight"
+Learning a Multi-Domain Curriculum for Neural Machine Translation,3,machine translation,,,US,Google,Google,"Wei Wang, Ye Tian, Jiquan Ngiam, Yinfei Yang, Isaac Caswell and Zarana Parekh"
+Improved Natural Language Generation via Loss Truncation,2,generation; model architecture,,,US,Stanford University,N,Daniel Kang and Tatsunori Hashimoto
+Graph Neural News Recommendation with Unsupervised Preference Disentanglement,3,recommendation,,,China,Beijing University of Posts and Telecommunications,N,"Linmei Hu, Siyong Xu, Chen Li, Cheng Yang, Chuan Shi, Nan Duan, Xing Xie and Ming Zhou"
+Distilling Knowledge Learned in BERT for Text Generation,2,generation,,,US,Microsoft,Microsoft,"Yen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu and Jingjing Liu"
+Paraphrase Generation by Learning How to Edit from Samples,3,paraphrase,,,Iran,Iran University of Science and Technology,N,"Amirhossein Kazemnejad, Mohammadreza Salehi and Mahdieh Soleymani Baghshah"
+PeTra: A Sparsely Supervised Memory Model for People Tracking,3,information extraction,,,US,Toyota,Toyota,"Shubham Toshniwal, Allyson Ettinger, Kevin Gimpel and Karen Livescu"
+Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,3,sentiment and argument analysis,,,US,Baidu,Baidu,Hongliang Fei and Ping Li
+Learning Constraints for Structured Prediction Using Rectifier Networks,2,semantic parsing,,,US,University of Utah,N,"Xingyuan Pan, Maitrey Mehta and Vivek Srikumar"
+Similarity Analysis of Contextual Word Representation Models,2,word meaning,,,US,MIT,N,"John Wu, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi and James Glass"
+Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,2,language modeling,,,China; Canada,Westlake University; Universite de Montr ´ eal,N,"Wenyu DU, Zhouhan Lin, Yikang Shen, Timothy J. O‚ÄôDonnell, Yoshua Bengio and Yue Zhang"
+PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,3,dialog,,,China,Baidu,Baidu,"Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang"
+RikiNet: Reading Wikipedia Pages for Natural Question Answering,3,question answering,,,China,Sichuan University,Microsoft,"Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan"
+Cross-Modality Relevance for Reasoning on Language and Vision,3,inference; language grounding,,,US,Michigan State University,N,"Chen Zheng, Quan Guo and Parisa Kordjamshidi"
+Social Bias Frames: Reasoning about Social and Power Implications of Language,4,bias,bias,equality,US,UW,N,"Maarten Sap, Saadia Gabriel, Lianhui Qin, Dan Jurafsky, Noah A. Smith and Yejin Choi"
+ParaCrawl: Web-Scale Acquisition of Parallel Corpora,2,machine translation,,,Spain,Prompsit,Prompsit,"Marta Ba√±√≥n, Pinzhen Chen, Barry Haddow, Kenneth Heafield, Hieu Hoang, Miquel Espl√†-Gomis, Mikel L. Forcada, Amir Kamran, Faheem Kirefu, Philipp Koehn, Sergio Ortiz Rojas, Leopoldo Pla Sempere, Gema Ram√≠rez-S√°nchez, Elsa Sarr√≠as, Marek Strelec, Brian Thompson, William Waites, Dion Wiggins and Jaume Zaragoza"
+Politeness Transfer: A Tag and Generate Approach,3,style transfer,,,US,CMU,N,"Aman Madaan, Amrith Setlur, Tanmay Parekh, Barnabas Poczos, Graham Neubig, Yiming Yang, Ruslan Salakhutdinov, Alan W Black and Shrimai Prabhumoye"
+"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",1,trend,,,US,UW,N,Emily M. Bender and Alexander Koller
+Improving Event Detection via Open-domain Trigger Knowledge,2,information extraction,,,China,Tsinghua University,N,"Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li and Jun Xie"
+Should All Cross-Lingual Embeddings Speak English?,2,word meaning; machine translation,,,US,CMU,N,Antonios Anastasopoulos and Graham Neubig
+Connecting Embeddings for Knowledge Graph Entity Typing,2,knowledge graph,,,China; China,Southwestern University of Finance and Economics; Tencent,Tencent,"Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG"
+Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,2,bias; word meaning,bias,equality,US,University of Virginia,Salesforce,"Tianlu Wang, Xi Victoria Lin, Nazneen Fatema Rajani, Bryan McCann, Vicente Ordonez and Caiming Xiong"
+Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,2,robustness; NLI,robustness,,US,NYU,N,"Paloma Jeretic, Alex Warstadt, Suvrat Bhooshan and Adina Williams"
+SciREX: A Challenge Dataset for Document-Level Information Extraction,2,information extraction,,,US,Northeastern University,N,"Sarthak Jain, Madeleine van Zuylen, Hannaneh Hajishirzi and Iz Beltagy"
+Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,3,machine translation; model architecture,,,US,Johns Hopkins University,Facebook,"Arya D. McCarthy, Xian Li, Jiatao Gu and Ning Dong"
+A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,3,language grounding,,,US,Salesforce,Microsoft,"Angela Lin, Sudha Rao, Asli Celikyilmaz, Elnaz Nouri, Chris Brockett, Debadeepta Dey and Bill Dolan"
+On the Cross-lingual Transferability of Monolingual Representations,2,text representation; machine translation,,,Spain,University of the Basque Country,DeepMind,"Mikel Artetxe, Sebastian Ruder and Dani Yogatama"
+Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,3,sentiment and argument analysis,,,China,Wuhan University,N,Zhuang Chen and Tieyun Qian
+Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,2,semantic parsing; interpretability,,,US,University of Maryland,Microsoft,"Ahmed Elgohary, Saghar Hosseini and Ahmed Hassan Awadallah"
+A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,2,machine translation,,,China,Beihang University,Microsoft,"Shuo Ren, Shujie Liu, Ming Zhou and Shuai Ma"
+Iterative Edit-Based Unsupervised Sentence Simplification,3,simplification,,,Canada,University of Waterloo,N,"Dhruv Kumar, Lili Mou, Lukasz Golab and Olga Vechtomova"
+Measuring Forecasting Skill from Text,3,forecasting,,,US,Ohio State University,N,"Shi Zong, Alan Ritter and Eduard Hovy"
+Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,4,interpretability; healthcare,interpretability; healthcare,health and wellbeing,China,Baidu,Baidu,"Jun Chen, Xiaoya Dai, Quan Yuan, Chao Lu and Haifeng Huang"
+Don‚Äôt Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,3,dialog,,,US,Facebook,Facebook,"Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho and Jason Weston"
+TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,2,language modeling,,,US,Georgia Tech,Microsoft,"Pengcheng Yin, Graham Neubig, Wen-tau Yih and Sebastian Riedel"
+Learning to Faithfully Rationalize by Construction,2,interpretability,interpretability,,US,Northeastern University,N,"Sarthak Jain, Sarah Wiegreffe, Yuval Pinter and Byron C. Wallace"
+Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,4,personality prediction,,,US,Stony Brook University,N,"Veronica Lynn, Niranjan Balasubramanian and H. Andrew Schwartz"
+An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,2,topic modeling,,,China,University of Electronic Science and Technology of China,N,"Jay Kumar, Junming Shao, Salah Uddin and Wazir Ali"
+What are the Goals of Distributional Semantics?,2,semantic parsing,,,UK,University of Cambridge,N,Guy Emerson
+Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,2,interpretability,interpretability,,US,CMU,N,"Xiaochuang Han, Byron C. Wallace and Yulia Tsvetkov"
+Neural Syntactic Preordering for Controlled Paraphrase Generation,3,paraphrase,,,US,The University of Texas at Austin,N,Tanya Goyal and Greg Durrett
+Finding Universal Grammatical Relations in Multilingual BERT,2,language modeling; interpretability,,,US,Stanford University,N,"Ethan A. Chi, John Hewitt and Christopher D. Manning"
+Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,2,machine translation,,,China,Soochow University,N,"Xiangyu Duan, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo and Yue Zhang"
+Logical Natural Language Generation from Open-Domain Tables,3,data-to-text generation,,,US,UC Santa Barbara,N,"Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen and William Yang Wang"
+DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,3,misinformation,misinformation,,US,Columbia University,Amazon,"Christopher Hidey, Tuhin Chakrabarty, Tariq Alhindi, Siddharth Varia, Kriste Krstovski, Mona Diab and Smaranda Muresan"
+Semantic Scaffolds for Pseudocode-to-Code Generation,3,code,,,US,UCB,N,"Ruiqi Zhong, Mitchell Stern and Dan Klein"
+On The Evaluation of Machine Translation SystemsTrained With Back-Translation,2,machine translation; metric,,,US,Facebook,Facebook,"Sergey Edunov, Myle Ott, Marc‚ÄôAurelio Ranzato and Michael Auli"
+Premise Selection in Natural Language Mathematical Texts,2,math,,,UK,University of Manchester,N,Deborah Ferreira and Andr√© Freitas
+The Summary Loop: Learning to Write Abstractive Summaries Without Examples,3,summarization,,,US,UCB,N,"Philippe Laban, Andrew Hsi, John Canny and Marti A. Hearst"
+Multi-Label and Multilingual News Framing Analysis,4,misinformation,misinformation,,US,Boston University,N,"Afra Feyza Aky√ºrek, Lei Guo, Randa Elanwar, Prakash Ishwar, Margrit Betke and Derry Tanti Wijaya"
+Temporally-Informed Analysis of Named Entity Recognition,2,information extraction,,,US,CMU,N,Shruti Rijhwani and Daniel Preotiuc-Pietro
+Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,2,word meaning,,,Israel,Bar Ilan University,N,"Shauli Ravfogel, Yanai Elazar, Hila Gonen, Michael Twiton and Yoav Goldberg"
+Generating Fact Checking Explanations,3,misinformation; interpretability,misinformation; interpretability,,Denmark,University of Copenhagen,N,"Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein"
+Attentive Pooling with Learnable Norms for Text Representation,2,text representation,,,China,Tsinghua University,N,"Chuhan Wu, Fangzhao Wu, Tao Qi, Xiaohui Cui and Yongfeng Huang"
+Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,3,social media; inference,,,China,Chinese Academy of Sciences,N,"Nan Xu, Zhixiong Zeng and Wenji Mao"
+Good-Enough Compositional Data Augmentation,2,data augmentation,,,US,MIT,N,Jacob Andreas
+On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,2,machine translation,,,Germany,Technische Universitat Darmstadt,N,"Wei Zhao, Goran Glava≈°, Maxime Peyrard, Yang Gao, Robert West and Steffen Eger"
+"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts",3,information extraction; interpretability,interpretability,,US,Baidu,Baidu,"Jingyuan Zhang, Mingming Sun, Yue Feng and Ping Li"
+Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,3,machine translation,,,China,University of Science and Technology of China,N,"Junliang Guo, Linli Xu and Enhong Chen"
+ChartDialogs: Plotting from Natural Language Instructions,4,dialog; language grounding,,,US,UC San Diego,N,Yutong Shao and Ndapa Nakashole
+Span Selection Pre-training for Question Answering,3,question answering,,,US,IBM,IBM,"Michael Glass, Alfio Gliozzo, Rishav Chakravarti, Anthony Ferritto, Lin Pan, G P Shrivatsa Bhargav, Dinesh Garg and Avi Sil"
+Multidirectional Associative Optimization of Function-Specific Word Representations,2,word meaning,,,UK,University of Cambridge,PolyAI,"Daniela Gerz, Ivan Vuliƒá, Marek Rei, Roi Reichart and Anna Korhonen"
+Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words,2,word meaning,,,US,CMU,N,Josef Klafka and Allyson Ettinger
+Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,4,information retrieval; healthcare,healthcare,,Czech,Charles University,N,Shadi Saleh and Pavel Pecina
+Dynamic Online Conversation Recommendation,3,recommendation; dialog,,,Hong Kong,The Chinese University of Hong Kong,N,"Xingshan Zeng, Jing Li, Lu Wang, Zhiming Mao and Kam-Fai Wong"
+Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,3,information extraction,,,US,University of Southern California,N,"Ouyu Lan, Xiao Huang, Bill Yuchen Lin, He Jiang, Liyuan Liu and Xiang Ren"
+Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,3,dialog,,,China,China Mobile,China Mobile,"Yi Huang, Junlan Feng, Min Hu, Xiaoting Wu, Xiaoyu Du and Shuo Ma"
+Adaptive Compression of Word Embeddings,2,word meaning,,,Korea,Artificial Intelligence Research Institute,N,"Yeachan Kim, Kang-Min Kim and SangKeun Lee"
+Unsupervised Cross-lingual Representation Learning at Scale,2,text representation; machine translation,,,US,Facebook,Facebook,"Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzm√°n, Edouard Grave, Myle Ott, Luke Zettlemoyer and Veselin Stoyanov"
+Neural CRF Model for Sentence Alignment in Text Simplification,3,simplification,,,US,Ohio State University,N,"Chao Jiang, Mounica Maddela, Wuwei Lan, Yang Zhong and Wei Xu"
+IMoJIE: Iterative Memory-Based Joint Open Information Extraction,2,information extraction,,,India,Indian Institute of Technology Delhi,N,"Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam - and Soumen Chakrabarti"
+USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,3,dialog,,,US,CMU,N,Shikib Mehri and Maxine Eskenazi
+Selective Question Answering under Domain Shift,3,question answering,,,US,Stanford University,N,"Amita Kamath, Robin Jia and Percy Liang"
+Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,2,word meaning,,,US,Facebook,Facebook,Terra Blevins and Luke Zettlemoyer
+A Graph Auto-encoder Model of Derivational Morphology,2,morphology,,,UK,University of Oxford,N,"Valentin Hofmann, Hinrich Sch√ºtze and Janet Pierrehumbert"
+A Reinforced Generation of Adversarial Examples for Neural Machine Translation,2,machine translation; robustness,robustness,,China,Nanjing University,N,"Wei Zou, Shujian Huang, Jun Xie, Xinyu Dai and Jiajun Chen"
+Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,4,data-to-text generation; jobs,jobs,,China,Nankai University,N,"Liting Liu, Jie Liu, Wenzheng Zhang, Ziming Chi, Wenxuan Shi and Yalou Huang"
+Max-Margin Incremental CCG Parsing,2,syntax parsing,,,UK,University of Edinburgh,N,Milo≈° Stanojeviƒá and Mark Steedman
+Paraphrase Augmented Task-Oriented Dialog Generation,3,dialog,,,US,UC Davis,N,"Silin Gao, Yichi Zhang, Zhijian Ou and Zhou Yu"
+Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,3,dialog,,,China,Harbin Institute of Technology,Baidu,"Jun Xu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu"
+Towards Debiasing Sentence Representations,2,bias; text representation,bias,,US,CMU,N,"Paul Pu Liang, Irene Mengze Li, Emily Zheng, Yao Chong Lim, Ruslan Salakhutdinov and Louis-Philippe Morency"
+Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,2,bias,bias,,Germany,Technische Universitat Darmstadt,N,"Prasetya Ajie Utama, Nafise Sadat Moosavi and Iryna Gurevych"
+Screenplay Summarization Using Latent Narrative Structure,4,summarization,,,UK,University of Edinburgh,N,"Pinelopi Papalampidi, Frank Keller, Lea Frermann and Mirella Lapata"
+Language (technology) is power: The need to be explicit about NLP harms,4,ethics,ethics,,US,University of Massachusetts Amherst,N,"Su Lin Blodgett, Solon Barocas, Hal Daum√© III and Hanna Wallach"
+Improving Image Captioning Evaluation by Considering Inter References Variance,3,caption generation,,,Japan,Waseda University,N,"Yanzhi Yi, Hangyu Deng and Jinglu Hu"
+How to Ask Good Questions? Try to Leverage Paraphrases,3,question answering,,,China,Peking University,N,"Xin Jia, Wenjie Zhou, Xu Sun and Yunfang Wu"
+Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,2,inference,,,Japan,RIKEN,RIKEN,"Hitomi Yanaka, Koji Mineshima, Daisuke Bekki and Kentaro Inui"
+Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,3,bias; speech; machine translation,bias,,Italy; Italy,Fondazione Bruno Kessler; Trento,N,"Luisa Bentivogli, Beatrice Savoldi, Matteo Negri, Mattia A. Di Gangi, Roldano Cattoni and Marco Turchi"
+Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,2,matching,,,US,ASAPP,ASAPP,"Kyle Swanson, Lili Yu and Tao Lei"
+Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,2,generation,,,China,Shanghai Jiao Tong University,N,"Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu and Kai Yu"
+Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,3,data-to-text generation,,,US,State University of New York at Buffalo,Tencent,"Zhenyi Wang, Xiaoyang Wang, Bang An, Dong Yu and Changyou Chen"
+HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,4,healthcare,healthcare,health and wellbeing,China,Chinese Academy of Sciences,N,"Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu and Weifeng Chong"
+MuTual: A Dataset for Multi-Turn Dialogue Reasoning,3,dialog; question answering,,,China,Zhejiang University,Microsoft,"Leyang Cui, Yu Wu, Shujie Liu, Yue Zhang and Ming Zhou"
+Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,2,information extraction,,,China,Alibaba,Alibaba,"Daoyuan Chen, Yaliang Li, Kai Lei and Ying Shen"
+QuASE: Question-Answer Driven Sentence Encoding,2,text representation,,,US,University of Pennsylvania,N,"Hangfeng He, Qiang Ning and Dan Roth"
+NILE : Natural Language Inference with Faithful Natural Language Explanations,3,NLI; interpretability,interpretability,,India,Indian Institute of Science,N,Sawan Kumar and Partha Talukdar
+A Prioritization Model for Suicidality Risk Assessment,4,mental healthcare,mental healthcare,health and wellbeing,UK,University of Maryland,N,"Han-Chin Shing, Philip Resnik and Douglas Oard"
+Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,3,sentiment and argument analysis; interpretability,interpretability,,US,Worcester Polytechnic Institute,N,"Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong and Elke Rundensteiner"
+S2ORC: The Semantic Scholar Open Research Corpus,2,information extraction,,,US,Allen Institute for Artificial Intelligence,N,"Kyle Lo, Lucy Wang, Mark Neumann, Rodney Kinney and Daniel Weld"
+Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,3,machine translation,,,Japan,NICT,N,"Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita and Tiejun Zhao"
+A Multitask Learning Approach for Diacritic Restoration,2,low-resource,low-resource,,US,Amazon,Amazon,"Sawsan Alqahtani, Ajay Mishra and Mona Diab"
+The Cascade Transformer: an Application for Efficient Answer Sentence Selection,3,question answering,,,US,Amazon,Amazon,Luca Soldaini and Alessandro Moschitti
+Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,2,language modeling,,,China,Huawei,Huawei,"Yi Liao, Xin Jiang and Qun Liu"
+2kenize: Tying Subword Sequences for Chinese Script Conversion,2,machine translation,,,Hong Kong,Independent Researcher,N,Pranav A and Isabelle Augenstein
+Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,4,summarization; misinformation; healthcare,misinformation; healthcare,health and wellbeing,US,Stanford University,N,"Yuhao Zhang, Derek Merck, Emily Tsai, Christopher D. Manning and Curtis Langlotz"
+How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,2,speech; low-resource,low-resource,,India,IIT Bombay,N,Archiki Prasad and Preethi Jyothi
+Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,2,metric,,,US,Indiana University,N,"Erfan Sadeqi Azer, Daniel Khashabi, Ashish Sabharwal and Dan Roth"
+Can You Put it All Together: Evaluating Conversational Agents‚Äô Ability to Blend Skills,3,dialog,,,US,Facebook,Facebook,"Eric Michael Smith, Mary Williamson, Kurt Shuster, Jason Weston and Y-Lan Boureau"
+Detecting Perceived Emotions in Hurricane Disasters,4,emotion detection; social media,,,US,The University of Texas at Austin,N,"Shrey Desai, Cornelia Caragea and Junyi Jessy Li"
+AMR Parsing via Graph-Sequence Iterative Inference,2,semantic parsing,,,Hong Kong,The Chinese University of Hong Kong,N,Deng Cai and Wai Lam
+Predicting the Growth of Morphological Families from Social and Linguistic Factors,2,morphology,,,UK,University of Oxford,N,"Valentin Hofmann, Janet Pierrehumbert and Hinrich Sch√ºtze"
+Guiding Variational Response Generator to Exploit Persona,3,dialog,,,China,Tencent,Tencent,"Bowen Wu, Mengyuan Li, Zongsheng Wang, Yifu Chen, Derek F. Wong, Qihang Feng, Junhong Huang and Baoxun Wang"
+Probing for referential information in language models,2,language modeling; interpretability,,,Spain,Universitat Pompeu Fabra,N,"Ionut-Teodor Sorodoc, Kristina Gulordava and Gemma Boleda"
+FastBERT: a Self-distilling BERT with Adaptive Inference Time,2,model architecture,,,China,Peking University,N,"Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng and QI JU"
+Calibrating Structured Output Predictors for Natural Language Processing,2,information extraction,,,US,University of Massachusetts Amherst,N,Abhyuday Jagannatha and Hong Yu
+How Does Selective Mechanism Improve Self-Attention Networks?,2,model architecture,,,China,Harbin Institute of Technology,Tencent,"Xinwei Geng, Longyue Wang, Xing Wang, Bing Qin, Ting Liu and Zhaopeng Tu"
+A Girl Has A Name: Detecting Authorship Obfuscation,3,authorship identification,,,US,The University of Iowa,N,"Asad Mahmood, Zubair Shafiq and Padmini Srinivasan"
+Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,3,style transfer; healthcare,healthcare,health and wellbeing,Singapore,NUS,N,"Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu and Tat-Seng Chua"
+What Question Answering can Learn from Trivia Nerds,2,question answering,,,US,University of Maryland,Google,Jordan Boyd-Graber and Benjamin B√∂rschinger
+CorefQA: Coreference Resolution as Query-based Span Prediction,2,coreference,,,China,Shannon AI,Shannon AI,"Wei Wu, Fei Wang, Arianna Yuan, Fei Wu and Jiwei Li"
+CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,3,dialog,,,China,Chinese Academy of Sciences,N,Lei Shen and Yang Feng
+Robust Encodings: A Framework for Combating Adversarial Typos,2,robustness,,,US,Stanford University,N,"Erik Jones, Robin Jia, Aditi Raghunathan and Percy Liang"
+Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,3,question answering,,,US,University of Arizona,N,"Vikas Yadav, Steven Bethard and Mihai Surdeanu"
+Investigating Word-Class Distributions in Word Vector Spaces,2,word meaning,,,Japan,Nagoya University,N,Ryohei Sasano and Anna Korhonen
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
