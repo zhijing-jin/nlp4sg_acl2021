@@ -1,6 +1,6 @@
-This repo contains the code and data for the paper at ACL Findings 2021:
+This repo contains the code and data for [the paper](https://arxiv.org/abs/2106.02359) at the Findings of ACL 2021:
 
-**How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact**
+**How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact** [[Paper link](https://arxiv.org/abs/2106.02359)]
 
 by _Zhijing Jin, Geeticka Chauhan, Brian Tse, Mrinmaya Sachan, Rada Mihalcea_.
 
