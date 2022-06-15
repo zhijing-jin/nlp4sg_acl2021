@@ -4,8 +4,8 @@ class Constants:
     file_paper_list_long_csv = 'data/acl20_long.csv'
     file_paper_list_short_csv = 'data/acl20_short.csv'
     file_paper_list_long_xlxs = 'data/acl20_long.xlsx'
-    img = 'data/visualization/acl20.png'
-    img_dir = 'data/visualization/'
+    img = 'data/tmp/acl20.png'
+    img_dir = 'data/tmp/'
 
     @staticmethod
     def read_csv(file, verbose=False):
@@ -88,7 +88,7 @@ class Stats:
         for row in contents:
             if not row[self.head_stage]:
                 continue
-            item = {h: _parse_cell(row[h], return_one=h == self.head_stage)
+            item = {h: _parse_cell(row[h], return_one=h in {self.head_stage, self.head_country})
                     for h in header}
             item[self.head_bin_company] = [
                 'Academia' if row[self.head_if_company] == 'N' else
@@ -136,6 +136,8 @@ class Stats:
                         show_var(['head1', 'header'])
                         import pdb;pdb.set_trace()
                     fig_name = C.img_dir + 'acl20_head{}n{}.png'.format(head_i, head_i1)
+                    if 'head2n4' in fig_name:
+                        import pdb;pdb.set_trace()
                     joint2cnt = self.get_joint_dist(contents, head, head1)
                     plt = P.stacked_bar(joint2cnt, head, class2cnt[head],
                                         class2cnt[head1], norm_by = total_num[head])

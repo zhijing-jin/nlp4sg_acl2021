@@ -8,10 +8,20 @@ To cite the paper:
 
 ```bibtex
 @inproceedings{jin2020good,
-    title = {How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact},
-    author = {Zhijing Jin and Geeticka Chauhan and Brian Tse and Mrinmaya Sachan and Rada Mihalcea},
-    booktitle = {Findings of ACL},
-    year = {2021},
+    title = "How Good Is {NLP}? {A} Sober Look at {NLP} Tasks through the Lens of Social Impact",
+    author = "Jin, Zhijing  and
+      Chauhan, Geeticka  and
+      Tse, Brian  and
+      Sachan, Mrinmaya  and
+      Mihalcea, Rada",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2106.02359",
+    doi = "10.18653/v1/2021.findings-acl.273",
+    pages = "3099--3113",
 }
 ```
 
